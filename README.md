@@ -1,0 +1,1 @@
+## To repo powstało, żeby mieć bardzo czytelną i przejrzystą instrukcję do Nemesis Lockdown :)
