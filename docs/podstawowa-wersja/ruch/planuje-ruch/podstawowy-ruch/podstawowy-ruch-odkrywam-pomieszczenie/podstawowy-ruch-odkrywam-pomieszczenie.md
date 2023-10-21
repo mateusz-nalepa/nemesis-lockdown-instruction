@@ -4,9 +4,9 @@
 
 ## Co jest na żetonie eksploracji?
 
-- Znacznik Pożaru
-- Znacznik Awarii
-- Znacznik Drzwi
-- Znacznik Ciszy
+- [Znacznik Pożaru](podstawowy-pozar/podstawowy-pozar.md)
+- [Znacznik Awarii](podstawowa-awaria/podstawowa-awaria.md)
+- [Znacznik Drzwi](podstawowe-drzwi/podstawowe-drzwi.md)
+- [Znacznik Ciszy](podstawowa-cisza/podstawowa-cisza.md)
 - [Znacznik Niebezpieczeństwa](../../../efekt-niebezpieczenstwa/efekt-niebezpieczenstwa.md)
-- Znacznik Śluzu
+- [Znacznik Śluzu](podstawowy-sluz/podstawowy-sluz.md)
