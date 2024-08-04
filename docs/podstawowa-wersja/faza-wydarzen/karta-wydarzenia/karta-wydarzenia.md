@@ -11,6 +11,7 @@ Dobieracie i rozgrywacie jedną kartę wydarzenia!
     - Przechodzą do sąsiedniego korytarzem o numerze z karty (2)
         - Jeśli są tam drzwi, to zostają one zniszczone i łowca nie przechodzi
         - Jeśli jest więcej niż jeden numer, to idą nimi po kolei
+            - Ale jeśli po danym przejściu już jest w pomieszczeniu z postacią, to nie idzie dalej 
         - Jeśli numer na karcie wskazuje korytarz techniczny:
             - Należy usunąć figurkę danego łowcy z planszy
             - Dołożyć do woreczka losowy żeton tego samego rodzaju
