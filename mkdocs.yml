@@ -17,3 +17,7 @@ markdown_extensions:
 nav:
   - Strona Główna: index.md
   - Dostępne akcje: podstawowa-wersja/podstawowa-wersja-akcje.md
+  - Faza wydarzeń:
+    - 4. Wystrzelenie kapsuł SWC: podstawowa-wersja/faza-wydarzen/wystrzelenie-kapsul-swc/wystrzelenie-kapsul-swc.md
+    - 5. Tor czasu: podstawowa-wersja/faza-wydarzen/tor-czasu/tor-czasu.md
+    - 10. Kolonia nocnych łowców: podstawowa-wersja/faza-wydarzen/kolonia-nocnych-lowcow/kolonia-nocnych-lowcow.md

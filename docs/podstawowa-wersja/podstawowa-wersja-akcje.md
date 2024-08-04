@@ -2,7 +2,8 @@
 
 # Dostępne akcje gracza
 
-## [a) Ruch](ruch%2Fruch.md)
+## [a) Ruch](ruch/ruch.md)
+## [b) Przeszukanie](przeszukanie/przeszukanie.md)
 
 
 ### Akapit Dwa
