@@ -3,10 +3,11 @@
 ## Czy mogę przeszukać pomieszczenie?
 
 
-    
-[Drzwi są zamknięte](drzwi-zamkniete/drzwi-sa-zamkniete.md)
+[//]: # (    )
+[//]: # ([Drzwi są zamknięte]&#40;drzwi-zamkniete/drzwi-sa-zamkniete.md&#41;)
 
-[Nie ma drzwi lub są zniszczone](drzwi-otwarte-lub-zniszczone/drzwi-sa-otwarte-lub-zniszczone.md)
+[//]: # ()
+[//]: # ([Nie ma drzwi lub są zniszczone]&#40;drzwi-otwarte-lub-zniszczone/drzwi-sa-otwarte-lub-zniszczone.md&#41;)
 
 
 

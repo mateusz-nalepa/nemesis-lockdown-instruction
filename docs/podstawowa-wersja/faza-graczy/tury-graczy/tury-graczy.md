@@ -2,7 +2,7 @@
 
 - Czym jest tura?
     - Tura to wykonanie max dwóch akcji
-        - Jakie akcje mogę wykonać?
+        - [Zobacz, jakie akcje możesz wykonać](../../akcje-graczy/akcje-graczy.md)
     - Tury są rozgrywane są do momentu aż wszyscy spasują
         - [Wtedy rozpoczyna się faza wydarzeń](../../faza-wydarzen/faza-wydarzen.md)
 
