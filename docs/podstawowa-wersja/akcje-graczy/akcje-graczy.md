@@ -1,7 +1,13 @@
 # Akcje graczy
 
 Aby wykonywać akcje, należy posiadać karty akcji. 
-Karta skażenia nie liczy się do kart akcji.
+Karty skażenia nie liczą się do kart akcji.
+
+### Płacenie za akcje
+
+Aby móc wykonać daną akcję, należy zapłacić jej koszt. Koszt jest oznaczony symbolem akcji.
+![symbol-akcji.png](symbol-akcji.png)
+
 
 ### Rodzaje akcji
 
@@ -18,11 +24,15 @@ Karta skażenia nie liczy się do kart akcji.
 - #### Ruch
     - Ogólne zasady co do ruchu:
         - Nie mogę być zaangażowany w walkę
+        - Nie mogę iść do zamkniętego pomieszczenia TODO: no chyba że mogę? XD
+        - Na spokojnie mogę iść gdy drzwi są otwarte lub zniszczone
     - ##### Podstawowy Ruch
         - Wymagania: 
             - Mam minimum jedną kartę akcji
         - Konsekwencje
             - TODO: co jeśli jest już tam nocny łowca??
+            - [Wykonuję rzut na szmery](rzut-na-szmery/rzut-na-szmery.md), gdy:
+                - w pomieszczeniu nie ma żadnego nocnego łowcy ani gracza 
     - ##### Ostrożny Ruch
         - Wymagania: 
             - Mam minimum dwie karty akcji

@@ -38,7 +38,9 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 nav:
   - Strona Główna: index.md
-  - Dostępne akcje: podstawowa-wersja/podstawowa-wersja-akcje.md
+  - Dostępne akcje Deprecated: podstawowa-wersja/podstawowa-wersja-akcje.md
+  - Rzeczy powtarzalne:
+      - Akcje gracza: podstawowa-wersja/akcje-graczy/akcje-graczy.md
   - Faza graczy:
       - Czym jest faza graczy?: podstawowa-wersja/faza-graczy/faza-graczy.md
       - 1. Dobieranie kart akcji: podstawowa-wersja/faza-graczy/dobieranie-kart-akcji/dobieranie-kart-akcji.md
