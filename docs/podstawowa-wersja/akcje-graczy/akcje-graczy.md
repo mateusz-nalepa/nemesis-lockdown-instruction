@@ -109,14 +109,15 @@ Koszt jest oznaczony symbolem akcji.
     - Jeśli ilość obrażeń równa się lub jest większa, to łowca ginie i umieszczam symbol truchła
     - Jeśli ilość obrażeń równa jest mniejsza, to on wciąż żyje
 
+- #### O czym warto pamiętać
+    - Zwróć uwagę na odkryte słabości, które możesz wykonać
+    - Zwróć uwagę na dodatkowe efekty z broni
+    - Zwróć uwagę na dodatkowe efekty z kart, jeśli jakieś są
+    - Nie da się strzelać do innego gracza
+    - Jajo i Larwa giną po każdym obrażeniu
+        - Leci też wtedy symbol truchła na planszę 
+
 - #### Strzał
-    - O czym warto pamiętać:
-        - Zwróć uwagę na odkryte słabości które możesz wykonać
-        - Zwróć uwagę na dodatkowe efekty z broni
-        - Zwróć uwagę na dodatkowe efekty z kart, jeśli jakieś są
-        - Nie da się strzelać do innego gracza
-        - Jajo i Larwa giną po każdym obrażeniu
-            - Leci też wtedy symbol truchła na planszę 
     - Wymagania:
         - Nocny Łowca musi się znajdować z Tobą w pomieszczeniu
         - Gracz musi mieć minimum 1 znacznik amunicji w broni
@@ -213,3 +214,13 @@ Koszt jest oznaczony symbolem akcji.
         - Jeśli odkrył kartę `Lockdown`, natychmiast rozpatruję się jej efekt
         - [Umieszczam znacznik awarii](../../powtarzalne/awaria/umieszczam-awarie) tam gdzie jestem
         - Tasuję karty komputera i odkrywam wierzchnią kartę z talii (TODO: to nie może być karta Lockdown??)
+    - podnoszę poziom wiedzy o jeden
+
+
+### Skanowanie kart skażenia
+- O ile mi karta akcji pozwala, czy tam ogónie jakaś akcje
+- Jeśli mam Zarażenie w kartach na ręce, to umieszczam na karcie postaci Larwy
+    - Gdybym już miał Larwę, to umieram:
+        - umieszczam zwłoki gracza
+        - Pełzacza w tym miejscu
+    - TODO: imo bym nie skanował, skoro mam to przecież wiem że mam i bym czekał te X rund

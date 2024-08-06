@@ -29,6 +29,16 @@ Tutaj jest lista pomieszczeń wraz z akcjami
     - Przeskanować wszystkie karty zarażenie które mam na ręce i je usunąć
         - Jeśli mam larwę, to też ją usuwam
 
+### Gabinet Chirurgiczny
+- Tutaj mogę:
+    - zeskanować wszystkie karty skażenia z dowolnego miejsca jakie mam
+        - usuwam te, które są zarażone
+        - jak mam larwę na planszy, to usuwam ją
+        - dostaję 1 powierzchowną ranę 
+            - TODO: link do tego, że dostaję ranę 
+        - automatycznie pasuje
+        - formuje nowy stos kart akcji ze wszystkich kart
+
 
 ### Ambulatorium
 -  Tutaj mogę:
@@ -72,4 +82,25 @@ Tutaj jest lista pomieszczeń wraz z akcjami
     - Wyłączyć zasilanie w danym sektorze   
     - Zatrzymać procedurę autodestrukcji, gdy żeton jest zwrócony żółtą stroną ku górze
 
-    
+### Laboratorium
+- Tutaj mogę:
+    - przebadać 
+        - jedno z wybranych:
+            - zwłoki postaci
+            - truchło
+            - jajo
+        - nastepnie podnoszę wtedy poziom wiedzy postaci o 3
+        - kładę przebadany obiekt na pustym polu planszy lab od lewej
+            - jeśli dany obiekt nie został przebadany jeszcze, to
+                - odkrywam słabość Nocnego Łowcy
+
+### Gniazdo
+- Gracz, który je odkrył, natychmiast podnosi poziom wiedzy o 1
+- Tutaj mogę:
+    - wziąć 1 żeton jaja z laboratorium nocnych łowców
+        - ale wtedy muszę wykonać rzut na szmery
+    - niszczyć jaja:
+        - jeśli wszystkie są zniszczone, to gniazdo uznaje się za zniszczone
+            - umieszczam wtedy znacznik amunicji
+    - jeśli w fazie wydarzeń, dokładniej skutki pożarów, są tutaj jakieś jaja, to niszczę 1 z nich
+        - TODO: a czemu nie wszystkie? XDDDD 

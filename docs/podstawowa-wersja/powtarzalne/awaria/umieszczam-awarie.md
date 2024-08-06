@@ -1,6 +1,8 @@
 ## :fontawesome-solid-explosion: Awaria! :fontawesome-solid-explosion:
 
-Nie mogę kłaść awarii w nieodkrytym pomieszczeniu.
+- Kiedy nie mogę położyć znacznika awarii:
+    - w nieodkrytym pomieszczeniu
+    - w gnieździe
 
 - Czy jest jeszcze dostępny znacznik awarii?
     - Tak, więc go kładę zgodnie z instrukcję

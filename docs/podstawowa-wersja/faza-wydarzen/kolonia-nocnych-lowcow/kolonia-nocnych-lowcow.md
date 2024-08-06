@@ -24,6 +24,8 @@ Co się wylosowało?
     - Są postacie w gnieździe:
         - Usuń ten żeton z woreczka
         - Umieść figurkę królowej na Gnieździe
+        - Rozegraj Spotkanie z Królową
+            - TODO: zalinkuj tutaj do spotkania z nocnym łowcą 
 - Pusty Żeton
     - Włóż żeton z powrotem do woreczka
     - Dołóż żeton dorosłego osobnika

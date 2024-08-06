@@ -27,3 +27,4 @@ Przesuń żeton czasu o jedno pole w prawo na torze czasu
 - ### Izolatka
     - TODO: kładzie się, czy opuszcza? XD
     - Jak żeton opuszcza, albo kładzie się na polu numer 8, to otwiera się Izolatka 
+- 
