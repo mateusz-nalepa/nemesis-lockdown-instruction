@@ -5,6 +5,7 @@ TODO: weź usuń w ogóle ten napis: podstawowa wersja z katalogu, żeby foldery
 TODO: usun folder z ruchem, ten stary
 TODO: dodaj jakiegoś checka co sprawdza, czy folder docs jest OK XD
 TODO: grammar XD
+TODO: Momenty przełomowe???
 
 ## Project layout
 

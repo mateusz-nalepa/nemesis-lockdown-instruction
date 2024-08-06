@@ -3,6 +3,8 @@
 Aby wykonywać akcje, należy posiadać karty akcji. 
 Karty skażenia nie liczą się do kart akcji.
 
+TODO: ogólnie weź podziel jakoś this stronę, o ile się da XD
+
 ### Płacenie za akcje
 
 Aby móc wykonać daną akcję, należy zapłacić jej koszt. 
@@ -165,10 +167,12 @@ Koszt jest oznaczony symbolem akcji.
 - Wymagania:
     - :moneybag: Tyle ile mówi karta 
     - Są jeszcze jakieś przedmioty w pomieszczeniu
-    - Nie ma awarii: TODO???
     - Dostaję przedmiot w danym kolorze zgodnie z symbolem karty
         - Biały oznacza, że mogę wybrać cokolwiek
             - Oprócz samoróbki 
+    - TODO: a co jak jest pożar?
+    - TODO: a co jak jest awaria?
+    - TODO: a co jak jest łowca?
 - Konsekwencje:
     - Gdy chcę wziąć ciężki przedmiot do ręki i nie mam miejsca, to albo go nie biorę, albo zostawiam jakiś ciężki przedmiot
     - Gdy biorę lekki przedmiot, to po prostu kładę go do plecaka
@@ -191,13 +195,7 @@ Koszt jest oznaczony symbolem akcji.
 - wykonuję kartę danej akcji
 
 ### Akcje pomieszczeń
-- Wymagania:
-    - :moneybag: zgodnie z numerem na karcie
-    - Pomieszczenie nie może być zepsute 
-    - Musi być symbol zasilania
-        - TODO: aż tak rygorystycznie bym nie podchodził do tego XD 
-- Wykonuje kartę danego pomieszczenia
-    - [Tutaj jest lista pomieszczeń](pomieszczenia/pomieszczenia.md)
+- [Tutaj jest lista pomieszczeń](pomieszczenia/pomieszczenia.md)
 
 ### Akcje komputera
 

@@ -6,7 +6,10 @@
     - Przedmioty są usuwane z gry
         - Imo też bym je upuszczał  
     - Kładę żeton zwłok postaci
-    - Jeśli umarłem i byłem ostanią żyjącą postacią, nie licząc tych z Izolatki, to nastepuje koniec gry
+    - Jeśli umarłem i:
+        - byłem pierwszą postacią co zmarła, to otwiera się brama główna 
+            - usuwam jej żeton z planszy 
+        - byłem ostanią żyjącą postacią, nie licząc tych z Izolatki, to nastepuje koniec gry
         - TODO: podlinkuj do końca gry tutaj 
 
 ## Dostaję powierzchowną ranę
