@@ -4,6 +4,7 @@ Jeśli pod polem z żetonem czasu znajduje się żeton SWC, to go odwróć i spr
 
 - Czy twoja postać jest w kapsule która została wystrzelona?
     - Tak, więc usuwam swoją figurkę z gry i nic więcej już nie robię
-    - Nie, zatem  wracam do pomieszczenia wysyłki Cargo i dostaję 1 głęboką ranę 
-
-[//]: # (    - TODO: co w sytuacji jak już mam dużo głębokich ran??)
+        - Bo się ewakuowałem!! 
+        - I jestem już tylko obserwatorem gry!
+    - Nie, zatem  wracam do danego pomieszczenia wysyłki Cargo i [dostaję 1 głęboką ranę](../../powtarzalne/dostaje-rane/dostaje-rane.md)
+        - TODO: Ale czemu dostaję? Imo ta zasada trochę bez sensu 

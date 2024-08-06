@@ -5,7 +5,13 @@ Karty skażenia nie liczą się do kart akcji.
 
 ### Płacenie za akcje
 
-Aby móc wykonać daną akcję, należy zapłacić jej koszt. Koszt jest oznaczony symbolem akcji.
+Aby móc wykonać daną akcję, należy zapłacić jej koszt. 
+
+Płatność polega na odrzuceniu danej ilości kart akcji z ręki.
+
+Kartami skażenia nie można płacić.
+
+Koszt jest oznaczony symbolem akcji.
 ![symbol-akcji.png](symbol-akcji.png)
 
 
@@ -23,42 +29,61 @@ Aby móc wykonać daną akcję, należy zapłacić jej koszt. Koszt jest oznaczo
 
 - #### Ruch
     - Ogólne zasady co do ruchu:
+        - Nie mogę się przemieszczać przez korytarze techniczne, no chyba że mam do tego specjalną kartę 
         - Nie mogę być zaangażowany w walkę
         - Nie mogę iść do zamkniętego pomieszczenia TODO: no chyba że mogę? XD
         - Na spokojnie mogę iść gdy drzwi są otwarte lub zniszczone
+        - [Gdy trafiam do nieodkrytego pomieszczenia (takie które ma żeton eksploracji) to je odkrywam na samym początku](pomieszczenia/odkrywam/odkrywam-pomieszczenie.md)
     - ##### Podstawowy Ruch
         - Wymagania: 
             - Mam minimum jedną kartę akcji
         - Konsekwencje
-            - TODO: co jeśli jest już tam nocny łowca??
             - [Wykonuję rzut na szmery](rzut-na-szmery/rzut-na-szmery.md), gdy:
                 - w pomieszczeniu nie ma żadnego nocnego łowcy ani gracza 
     - ##### Ostrożny Ruch
         - Wymagania: 
             - Mam minimum dwie karty akcji
             - Chociaż jeden korytarz prowadzący do pomieszczenia gdzie chcę iść, nie ma znacznika szmeru
+            - Nie jestem zaangażowany w walkę
+            - TODO: oraz nikogo tam nie ma????
         - Konsekwencje:
             - Nie wykonuje rzutu na szmery
-            - Po ostrożnym ruchu umieszczam w wybranym przez siebie miejscu znacznik szmeru 
-            - TODO: Mogę iść ostrożnie do pomieszczenia gdzie jest nocny łowca?
+            - Po ostrożnym ruchu umieszczam w wybranym przez siebie miejscu znacznik szmeru, gdy nie ma tam żadnego Nocnego Łowcy ani postaci
 
 - #### Podnoszenie ciężkiego obiektu
-  - :moneybag: 1 karta akcji
-  - podnieś wybrany obiekt do ręki, o ile masz miejsce: 
-      - żeton zwłok postaci
-      - żeton truchła 
-      - żeton jaja
-  - w przypadku gdy podnoszę przedmiot do plecaka, np. w wyniku przeszukania, to nie płacę nic dodatkowo
+    - :moneybag: 1 karta akcji
+    - Mogę przeszukiwać gdy jest awaria
+    - TODO: Mogę gdy jest pożar?
+    - TODO: Mogę, gdy jest nocny łowca lub gracz??
+    - podnieś wybrany obiekt do ręki, o ile masz miejsce: 
+        - żeton zwłok postaci
+        - żeton truchła 
+        - żeton jaja
+
+
+### Upuszczenie przedmiotu
+- Upuszczanie w dowolnym momencie gry za darmo jest
+- Mogę na danym pomieszczeniu opuścić:
+   - żeton zwłok postaci
+   - żeton truchła 
+   - żeton jaja 
+- Upuszczonego przedmiotu nie może podnieść inny gracz
+    - Kartę przedmiotu kładę na odrzucony stos kart danego przedmiotu 
+    - TODO: jakieś trochę takie bez sensu się to wydaje XD 
+
 - #### Handel
     - :moneybag: koszt 1 karta akcji   
-    - można ze wszystkimi postaciami z tym samym pomieszczeniu, nawet te które spasowały
+    - mogę przekazywać zarówno obiekty jak i przedmioty
+    - można ze wszystkimi postaciami z tym samym pomieszczeniu:
+        - nawet te które spasowały
     - przekazująć broń, przekazuję też znaczniki amunicji
     - mogę coś oddać, nie muszę dostawać niczego w zamian
 - #### Robienie przedmiotu
+    - W grze jest generalnie 5 przedmiotów samoróbek
     - odrzuć 2 karty przedmiotów oznaczonych specjalnym niebieskim kolorem aby otrzymać samoróbkę która ma te same symbole na dole, ale w kolorze szarym
     - nie mogę zrobić samoróbki, jeśli mam dostępne przedmioty, ale karta samoróbki nie jest dostępna
-    - TODO: to z góry wydaje się bez sensu, jakieś takie lipne XD
-    - W grze jest generalnie 5 przedmiotów samoróbek
+        - TODO: to z góry wydaje się bez sensu, jakieś takie lipne XD
+    - Oczywiście przedmiot lekki do plecaka, ciężki do ręki
 - #### Niszczenie jaj
     - Wymagania: 
         - Gracz jest w pomieszczeniu gdzie leżą przez nikogo nie noszone jaja
@@ -75,17 +100,30 @@ Aby móc wykonać daną akcję, należy zapłacić jej koszt. Koszt jest oznaczo
 
 - Atak na Nocnego Łowcę
 
+#### Czy nocny łowca zmarł po otrzymaniu rany?
+- Czy zmarł?
+    - Dobieram X kart Ataku Nocnego Łowcy i sprawdzam liczbę symbolu krwi
+        - 1 dla Pełacza i Dorosłego Osobnika 
+        - 2 dla Reproduktora lub Królowej
+        - Jak nie ma symbolu krwi i jest wycofanie, to Nocny Łowca ucieka
+    - Jeśli ilość obrażeń równa się lub jest większa, to łowca ginie i umieszczam symbol truchła
+    - Jeśli ilość obrażeń równa jest mniejsza, to on wciąż żyje
+
 - #### Strzał
     - O czym warto pamiętać:
         - Zwróć uwagę na odkryte słabości które możesz wykonać
         - Zwróć uwagę na dodatkowe efekty z broni
-        - Zwróć uwagę na....????
+        - Zwróć uwagę na dodatkowe efekty z kart, jeśli jakieś są
+        - Nie da się strzelać do innego gracza
+        - Jajo i Larwa giną po każdym obrażeniu
+            - Leci też wtedy symbol truchła na planszę 
     - Wymagania:
         - Nocny Łowca musi się znajdować z Tobą w pomieszczeniu
         - Gracz musi mieć minimum 1 znacznik amunicji w broni
+        - :moneybag: 1 karta akcji
     - Jak wygląda strzał:
         - wybierz broń i 1 nocnego łowcę, którego chcesz zastrzelić
-        - odrzuć znacnzik amunicji z karty broni
+        - odrzuć znacznik amunicji z karty broni
         - rzuć kością walki i rozpatrz rezultat:
             - w pomieszczeniu z zasilaniem rzuć czerwoną kością walki
             ??? "Dowiedz się więcej o rezultacie rzutu kością walki"
@@ -93,13 +131,47 @@ Aby móc wykonać daną akcję, należy zapłacić jej koszt. Koszt jest oznaczo
             - w pomieszczeniu bez zasilania rzuć kością przewagi
             ??? "Dowiedz się więcej o rezultacie rzutu kością przewagi"
                 ![wynik-rzutu-koscia-przewagi.png](wynik-rzutu-koscia-przewagi.png)
+        - Oznacz ile obrażeń dostał Nocny Łowca i sprawdź czy zmarł
+            - To jakieś kontr-intuicyjne, bo z góry nie wiem ile ma życia XDDD
 - #### Walka wręcz
     - Atakujesz nocnego łowcę gołymi rękoma, albo prowizoryczną bronią
     - Wymagania:
+        - :moneybag: 1 karta akcji
         - Nocny Łowca musi się znajdować z Tobą w pomieszczeniu
+        - Mogę rzucać tylko czerwoną kością walki niezależnie od zasilania
+    - Konsekwencje:
+        - Po opłaceniu dobieram do stosu kart odrzuconych 1 kartę skażenia 
+        - Wynik kości walki:
+            - Pusta ściana
+                - Chybiam i [dostaję 1 odkrytą głęboką ranę](../../powtarzalne/dostaje-rane/dostaje-rane)
+            - 1 obrażenie
+                - Zadaje po prostu jedno obrażenie łowcy 
+            - 2 obrażenia
+                - I tak zadaję tylko 1 obrażenie, bo to walka wręcz
+            - Pełzacz
+                - Walczę z pełzaczem albo kimś słabszym, to zadaję 1 ranę i sprawdzam czy zmarł
+                - Walczę z kimś silniejszym, chybiam i [dostaję 1 odkrytą głęboką ranę](../../powtarzalne/dostaje-rane/dostaje-rane)
+            - Dorosły osobnik
+                - Walczę z dorosłym osobnikiem albo kimś słabszym, to zadaję 1 ranę i sprawdzam czy zmarł
+                - Walczę z kimś silniejszym, chybiam i [dostaję 1 odkrytą głęboką ranę](../../powtarzalne/dostaje-rane/dostaje-rane)
 - #### Ucieczka
+- Wymagania:
     - :moneybag: 1 karta akcji
     - Mogę tylko wtedy, gdy chcę wykonać ruch, a jestem zaangażowany w walkę
+    - Rozpatruję [Atak Nocnego Łowcy](../../faza-wydarzen/atak-nocnego-lowcy/atak-nocnego-lowcy)
+
+### Przeszukanie
+- Wymagania:
+    - :moneybag: Tyle ile mówi karta 
+    - Są jeszcze jakieś przedmioty w pomieszczeniu
+    - Nie ma awarii: TODO???
+    - Dostaję przedmiot w danym kolorze zgodnie z symbolem karty
+        - Biały oznacza, że mogę wybrać cokolwiek
+            - Oprócz samoróbki 
+- Konsekwencje:
+    - Gdy chcę wziąć ciężki przedmiot do ręki i nie mam miejsca, to albo go nie biorę, albo zostawiam jakiś ciężki przedmiot
+    - Gdy biorę lekki przedmiot, to po prostu kładę go do plecaka
+    - Zmniejszam licznik przedmiotów w pomieszczeniu
 
 ### Akcje z kart akcji
 
@@ -118,10 +190,13 @@ Aby móc wykonać daną akcję, należy zapłacić jej koszt. Koszt jest oznaczo
 - wykonuję kartę danej akcji
 
 ### Akcje pomieszczeń
-
-- :moneybag: zgodnie z numerem na karcie
+- Wymagania:
+    - :moneybag: zgodnie z numerem na karcie
+    - Pomieszczenie nie może być zepsute 
+    - Musi być symbol zasilania
+        - TODO: aż tak rygorystycznie bym nie podchodził do tego XD 
 - Wykonuje kartę danego pomieszczenia
-- [Tutaj jest lista pomieszczeń](pomieszczenia/pomieszczenia.md)
+    - [Tutaj jest lista pomieszczeń](pomieszczenia/pomieszczenia.md)
 
 ### Akcje komputera
 
@@ -129,9 +204,12 @@ Aby móc wykonać daną akcję, należy zapłacić jej koszt. Koszt jest oznaczo
     - Odpowiednia ilość kart akcji dla danej akcji komputera 
     - Aktywne zasilanie w danym sektorze
     - Akcja pomieszczenia ma kafelek komputera
+    - ![kafelek-komputera.png](kafelek-komputera.png)
     - Brak znacznika awarii w pomieszczeniu
     - Gracz oczywiście musi się znajdować w danym pomieszczeniu :grin:
 - Konsekwencje:
     - Gracz może wykonać 1 z 3 dostępnych akcji
     - Gracz kładzie kartę na sam spód stosu i odkrywa kolejną
-        - Jeśli odkrył kartę `Lockdown`, natychmiast rozpatruję się jej efekt 
+        - Jeśli odkrył kartę `Lockdown`, natychmiast rozpatruję się jej efekt
+        - [Umieszczam znacznik awarii](../../powtarzalne/awaria/umieszczam-awarie) tam gdzie jestem
+        - Tasuję karty komputera i odkrywam wierzchnią kartę z talii (TODO: to nie może być karta Lockdown??)

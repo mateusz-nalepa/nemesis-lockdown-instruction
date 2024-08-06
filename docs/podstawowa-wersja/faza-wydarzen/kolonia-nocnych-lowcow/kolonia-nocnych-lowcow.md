@@ -13,7 +13,8 @@ Co się wylosowało?
     - Dla każdego gracza w kolejności rozgrywania:
         - Czy jestem zaangażowany w walkę z Nocnym Łowcą? 
             - Tak, więc nie wkonuje rzutu na szmery
-            - Nie, więc wykonuję `Rzut na szmery`
+            - Nie, więc wykonuję [Rzut na szmery](link do rzutu)
+                - TODO: dodaj link do tego rzutu  
 - Reproduktor
     - Dzieje się dokładnie to samo, co dla `Dorosły osobnik`
 - Królowa

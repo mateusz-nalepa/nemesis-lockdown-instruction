@@ -39,8 +39,13 @@ markdown_extensions:
 nav:
   - Strona Główna: index.md
   - Dostępne akcje Deprecated: podstawowa-wersja/podstawowa-wersja-akcje.md
+  - Podstawowe info:
+      - Gdzie zaczyna dana postać: podstawowa-wersja/poczatek-gry/gdzie-zaczynam.md
   - Rzeczy powtarzalne:
       - Akcje gracza: podstawowa-wersja/akcje-graczy/akcje-graczy.md
+      - Pomieszczenia: podstawowa-wersja/akcje-graczy/pomieszczenia/pomieszczenia.md
+      - Umieszczenie pożaru: podstawowa-wersja/powtarzalne/pozar/umieszczam-pozar.md
+      - Umieszczenie awarii: podstawowa-wersja/powtarzalne/awaria/umieszczam-awarie.md
   - Faza graczy:
       - Czym jest faza graczy?: podstawowa-wersja/faza-graczy/faza-graczy.md
       - 1. Dobieranie kart akcji: podstawowa-wersja/faza-graczy/dobieranie-kart-akcji/dobieranie-kart-akcji.md

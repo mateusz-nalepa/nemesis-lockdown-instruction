@@ -5,6 +5,7 @@
         - [Zobacz, jakie akcje możesz wykonać](../../akcje-graczy/akcje-graczy.md)
     - Tury są rozgrywane są do momentu aż wszyscy spasują
         - [Wtedy rozpoczyna się faza wydarzeń](../../faza-wydarzen/faza-wydarzen.md)
+    - Jeśli na koniec swojej tury jestem w pomieszczeniu z pożarem, to dostaję 1 powierzchowną ranę
 
 - Kiedy występuję PAS?
     - Jak wykonam jedną turę i nie chce już więcej
