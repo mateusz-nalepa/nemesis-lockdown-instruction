@@ -65,11 +65,12 @@ nav:
       - Umieszczenie pożaru: podstawowa-wersja/powtarzalne/pozar/umieszczam-pozar.md
       - Umieszczenie awarii: podstawowa-wersja/powtarzalne/awaria/umieszczam-awarie.md
   - Faza graczy:
-      - Czym jest faza graczy?: podstawowa-wersja/faza-graczy/faza-graczy.md
-      - 1. Dobieranie kart akcji: podstawowa-wersja/faza-graczy/dobieranie-kart-akcji/dobieranie-kart-akcji.md
-      - 2. Przekazanie żetonu gracza: podstawowa-wersja/faza-graczy/przekazanie-zetonu-gracza/przekazanie-zetonu-gracza.md
-      - 3. Tury graczy: podstawowa-wersja/faza-graczy/tury-graczy/tury-graczy.md
+    - Czym jest faza graczy?: podstawowa-wersja/faza-graczy/faza-graczy.md
+    - 1. Dobieranie kart akcji: podstawowa-wersja/faza-graczy/dobieranie-kart-akcji/dobieranie-kart-akcji.md
+    - 2. Przekazanie żetonu gracza: podstawowa-wersja/faza-graczy/przekazanie-zetonu-gracza/przekazanie-zetonu-gracza.md
+    - 3. Tury graczy: podstawowa-wersja/faza-graczy/tury-graczy/tury-graczy.md
   - Faza wydarzeń:
+    - Czym jest faza wydarzeń: podstawowa-wersja/faza-wydarzen/faza-wydarzen.md
     - 4. Wystrzelenie kapsuł SWC: podstawowa-wersja/faza-wydarzen/wystrzelenie-kapsul-swc/wystrzelenie-kapsul-swc.md
     - 5. Tor czasu: podstawowa-wersja/faza-wydarzen/tor-czasu/tor-czasu.md
     - 6. Usunięcie znaczników szmerów: podstawowa-wersja/faza-wydarzen/usuniecie-znacznikow-szmerow/usuniecie-znacznikow-szmerow.md
