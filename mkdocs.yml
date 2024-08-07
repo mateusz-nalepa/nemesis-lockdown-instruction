@@ -43,8 +43,23 @@ nav:
       - Gdzie zaczyna dana postać: podstawowa-wersja/poczatek-gry/gdzie-zaczynam.md
       - Plansza Laboratorium: podstawowa-wersja/plansza-laboratorium.md
   - Rzeczy powtarzalne:
-      - Akcje gracza: podstawowa-wersja/akcje-graczy/akcje-graczy.md
-      - Pomieszczenia: podstawowa-wersja/akcje-graczy/pomieszczenia/pomieszczenia.md
+      - Akcje:
+        - Podstawowe info: podstawowa-wersja/akcje-graczy/akcje-podstawowe-info.md
+        - Ruch: podstawowa-wersja/akcje-graczy/akcja-ruch.md
+        - Przeszukanie: podstawowa-wersja/akcje-graczy/akcja-przeszukanie.md
+        - Akcje pomieszczeń: podstawowa-wersja/akcje-graczy/akcja-pomieszczenia.md
+        - Akcje kart akcji: podstawowa-wersja/akcje-graczy/akcja-karty-akcji.md
+        - Akcje kart przedmiotów: podstawowa-wersja/akcje-graczy/akcja-karty-przedmiotow.md
+        - Podnieś ciężki obiekt: podstawowa-wersja/akcje-graczy/akcja-podnies-ciezki-obiekt.md
+        - Upuść przedmiot: podstawowa-wersja/akcje-graczy/akcja-upusc-przedmiot.md
+        - Handel: podstawowa-wersja/akcje-graczy/akcja-handel.md
+        - Zrób przedmiot: podstawowa-wersja/akcje-graczy/akcja-zrob-przedmiot.md
+        - Walka: podstawowa-wersja/akcje-graczy/akcja-walka.md
+        - Niszczenie jaj: podstawowa-wersja/akcje-graczy/akcja-niszczenie-jaj.md
+        - Ucieczka: podstawowa-wersja/akcje-graczy/akcja-ucieczka.md
+        - Komputer: podstawowa-wersja/akcje-graczy/akcja-komputer.md
+        - Skanowanie kart skażenia: podstawowa-wersja/akcje-graczy/akcja-skanowanie-kart.md
+        - Pomieszczenia: podstawowa-wersja/akcje-graczy/pomieszczenia/pomieszczenia.md
       - Umieszczenie pożaru: podstawowa-wersja/powtarzalne/pozar/umieszczam-pozar.md
       - Umieszczenie awarii: podstawowa-wersja/powtarzalne/awaria/umieszczam-awarie.md
   - Faza graczy:
