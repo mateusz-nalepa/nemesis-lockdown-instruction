@@ -1,7 +1,5 @@
 # Pomieszczenia
 
-TODO: weź też jakoś ładnie opisz te rzeczy tutaj XD
-
 Tutaj jest lista pomieszczeń wraz z akcjami.
 
 ### Ogólne wymagania:
@@ -9,9 +7,10 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
     - :moneybag: zgodnie z numerem na karcie
     - Pomieszczenie nie może być zepsute 
     - Musi być symbol zasilania
-        - TODO: aż tak rygorystycznie bym nie podchodził do tego XD
-    - Nie można wykonywać akcji w trakcie walki z Nocnym Łowcą
-- Wykonuje kartę danego pomieszczenia
+        - Nalepa info: To bym stosował tylko w przypadku pomieszczeń z komputerem?
+    - Nie można wykonywać akcji pomieszczenia w trakcie walki z Nocnym Łowcą
+- Konsekwencje:
+    - Wykonuje kartę danego pomieszczenia
 
 ### Zasilanie Awaryjne
 - Wykonaj te rzeczy:
@@ -43,14 +42,12 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
         - Jeśli mam larwę, to też ją usuwam
 
 ### Gabinet Chirurgiczny
-- Tutaj mogę:
-    - zeskanować wszystkie karty skażenia z dowolnego miejsca, jakie mam
-        - usuwam te, które są zarażone
-        - jak mam larwę na planszy, to usuwam ją
-        - dostaję 1 powierzchowną ranę 
-            - TODO: link do tego, że dostaję ranę 
-        - automatycznie pasuje
-        - formuje nowy stos kart akcji ze wszystkich kart
+- Skanuje wszystkie karty skażenia z dowolnego miejsca, jakie mam
+    - usuwam te, które są zarażone
+    - jak mam larwę na planszy, to usuwam ją
+    - [dostaję 1 powierzchowną ranę](..%2F..%2Fpowtarzalne%2Fdostaje-rane%2Fdostaje-rane.md)
+    - automatycznie pasuje
+    - formuje nowy stos kart akcji ze wszystkich kart
 
 
 ### Ambulatorium
@@ -120,7 +117,7 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
         - jeśli wszystkie są zniszczone, to gniazdo uznaje się za zniszczone
             - umieszczam wtedy znacznik amunicji
     - jeśli w fazie wydarzeń, dokładniej skutki pożarów, są tutaj jakieś jaja, to niszczę 1 z nich
-        - TODO: a czemu nie wszystkie? XDDDD 
+        - Nalepa info: Może mogę wtedy zniszczyć wszystkie?
 
 ### Archiwum
 - Wymagania:
@@ -133,18 +130,17 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
 
 ### Wejście do jaskini
 - Przenieś się do dowolnego odkrytego pomieszczenia z wejściem do korytarzy technicznych
-- Rozpatrz 1 kartę ataku Nocnego Łowcy: TODO link 
-    - atak przeprowadza 1 dorosły osobnik
-    - aktywny jest efekt ciemności
+    - [Rozpatrz 1 kartę ataku Nocnego Łowcy](..%2F..%2Ffaza-wydarzen%2Fatak-nocnego-lowcy%2Fatak-nocnego-lowcy.md)
+        - atak przeprowadza 1 dorosły osobnik
+        - aktywny jest efekt ciemności
 
 ### Ciągi ewakuacyjne
 - Tutaj zawsze jestem w ciemności
 
 
 ### Magazyn
-- Tutaj mogę:
-    - Zrobić przedmiot
-        - nie muszę mieć wtedy 2 kart przedmiotów potrzebnych do zrobienia samoróbki, jedna starczy 
+- Robię przedmiot
+    - nie muszę mieć wtedy 2 kart przedmiotów potrzebnych do zrobienia samoróbki, jedna wystarczy 
 
 ### Izolatka
 - Tutaj mogę:
@@ -153,10 +149,11 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
     - Zamknąć się w środku
         - gdy procedura alarmowa jest aktywna
         - gdy żeton czasu jest na biały polu, czyli od 8
-        - Wtedy wykonuje rzut na szmery: TODO - link XD
-            - TODO: Custom Rule: w sumie mogę to olać chyba XD
+        - Wtedy wykonuje [rzut na szmery](..%2Frzut-na-szmery%2Frzut-na-szmery.md)
             - jak się pojawi dowolny nocny łowca, to nie udaje mi się zamknąć
-            - jak nie, to zamykam się w Izolatce i jestem już tylko obserwatorem i czekam na koniec gry - TODO: link do końca
+            - jak nie, to zamykam się w Izolatce
+                - jestem już tylko obserwatorem 
+                - [czekam na koniec gry](..%2F..%2Fkoniec-gry%2Fkoniec-gry.md)
 
 ### Szyb Windy S-01
 - Musi mieć aktywne zasilanie
@@ -166,9 +163,7 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
     - skorzystać z windy, gdy jest obok mnie
         - mogę kogoś zabrać, jeśli chce
         - nie wykonuje rzutu na szmery:
-            - CUSTOM RULE TODO: w sumie why not? winda generuje dużo hałasu i bym dał wtedy szmery tam:
-                - skąd widna przyjechałą
-                - dokąd pojechała XD
+            - Nalepa info: A może by jednak wykonywać?
 
 ### Szyb Windy S-03
 - Jak wyżej
@@ -185,10 +180,10 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
         - musi mi go w sekrecie pokazać 
 
 ### Kwatera straży
-- Zmniejszam wartość przedmiotów o 1 i biorę jedno z tych ze stosu samoróbek, o ile są:
-    - TODO: imo po prostu biorę i tyle, sobie dorysuję kartę co najwyżej XD 
+- Zmniejszam wartość przedmiotów o 1 i biorę jedną z tych kart ze stosu samoróbek, o ile są:
     - Paralizator
     - Skafander Kosmiczny
+    - Nalepa info: Biorę kartę, jak nie ma już, to sobie na jakiejś kartce ją dorysuję :grin:
 
 ### Skażone pomieszczenie
 - Za każdym razem, gdy je przeszukuje, umieszczam znacznik śluzu
@@ -212,26 +207,32 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
 - Konsekwencje:
     - Wybierz pomieszczenie bez znacznika awarii
     - Umieść tam awarię
-    - Każdy nocny łowca co tam jest, otrzymuje po 1 obrażeniu TODO: czy umiera??
-    - Każda postać co tam jest, otrzymuje 1 głęboką ranę TODO: czy umiera?
+    - Każdy nocny łowca co tam jest, [otrzymuje po 1 obrażeniu](..%2F..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
+    - Każda postać co tam jest, [otrzymuje 1 głęboką ranę](..%2F..%2Fpowtarzalne%2Fdostaje-rane%2Fdostaje-rane.md)
 
 ### Pokój testów
-- Jeśli mój poziom postaci wynosi co najmniej 4, biorę neutralizator ze stosu samoróbek, o ile jest:
-    - TODO: imo po prostu biorę i tyle, sobie dorysuję kartę co najwyżej XD 
+- Wymagania:
+    - Poziom postaci wynosi co najmniej 4
+- Konsekwencje:
+    - Biorę neutralizator ze stosu samoróbek, o ile jest
+        - Nalepa info: Biorę kartę, jak nie ma już, to sobie na jakiejś kartce ją dorysuję :grin:
 
 ### 001 - Ucieczka do Bunkra
-- Mogę się tam dostać, gdy:
+- Wymagania:
     - postać znajduję się na kafelku obok bramy głównej
-    - brama jest otwarta
-    - jest dana rzecz:
-        - łazik jest dostępny
-            - w razie czego można go zdalnie sprowadzić do bazy 
-        - postać ma skafander kosmiczny
-            - wtedy trzeba rzut na szmery TODO: link
-                - jak się pojawi łowca, wtedy nie udaje się uciec
-                - TODO: imo zbyt rygorystyczne to jest XD
     - w pomieszczeniu nie ma postaci nocnego łowcy
+    - brama jest otwarta
+    - łazik jest dostępny
+        - lub postać ma skafander kosmiczny 
+    - w razie czego da się jakoś sprowadzić zdalnie łazik do bazy
+- Konsekwencje:
+    - wtedy wykonuje [rzut na szmery](..%2Frzut-na-szmery%2Frzut-na-szmery.md)
+        - jak się pojawi dowolny nocny łowca, to nie udaje mi się zamknąć
+        - jak nie, to zamykam się w Izolatce
+            - jestem już tylko obserwatorem 
+            - [czekam na koniec gry](..%2F..%2Fkoniec-gry%2Fkoniec-gry.md)
 
 ### Bunkier
 - Może być tam więcej niż 1 postać
 - Nie jest niszczony przez awarię ani pożary
+- Nie jest niszczony, gdy baza jest niszczona

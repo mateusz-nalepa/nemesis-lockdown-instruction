@@ -25,6 +25,4 @@ Przesuń żeton czasu o jedno pole w prawo na torze czasu
         - Przekroczono niebieską linię - spada zasilanie w znaczniku prądu o najwyższym numerze
 
 - ### Izolatka
-    - TODO: kładzie się, czy opuszcza? XD
-    - Jak żeton opuszcza, albo kładzie się na polu numer 8, to otwiera się Izolatka 
-- 
+    - Jak żeton kładzie się na polu numer 8, to otwiera się Izolatka
