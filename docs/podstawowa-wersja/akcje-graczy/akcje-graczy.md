@@ -91,9 +91,9 @@ Koszt jest oznaczony symbolem akcji.
         - Gracz jest w pomieszczeniu gdzie leżą przez nikogo nie noszone jaja
         - Gracz nie może być zaangażowany w walkę
     - Konsekwencje:
-        - Każde dowolne zadane obrażenie niszczy jajo
+        - Każde dowolne [zadane obrażenie niszczy jajo](..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
         - Walcząc wręcz, gracz nie dobiera karty skażenia
-        - W przypadku chybienia, gracz nie otrzymuje żadnej rany
+        - W przypadku gdy łowca chybia, gracz nie otrzymuje żadnej rany
         - Po każdej próbie zniszczenia jaja, [gracz wykonuje rzut na szmery](rzut-na-szmery/rzut-na-szmery.md)
 
 ### Akcje w trakcie walki
@@ -101,15 +101,6 @@ Koszt jest oznaczony symbolem akcji.
 `Info` Walka jest wtedy, gdy w pomieszczeniu gracza znajduje się Nocny Łowca
 
 - Atak na Nocnego Łowcę
-
-#### Czy nocny łowca zmarł po otrzymaniu rany?
-- Czy zmarł?
-    - Dobieram X kart Ataku Nocnego Łowcy i sprawdzam liczbę symbolu krwi
-        - 1 dla Pełacza i Dorosłego Osobnika 
-        - 2 dla Reproduktora lub Królowej
-        - Jak nie ma symbolu krwi i jest wycofanie, to Nocny Łowca ucieka
-    - Jeśli ilość obrażeń równa się lub jest większa, to łowca ginie i umieszczam symbol truchła
-    - Jeśli ilość obrażeń równa jest mniejsza, to on wciąż żyje
 
 - #### O czym warto pamiętać
     - Zwróć uwagę na odkryte słabości, które możesz wykonać
@@ -134,10 +125,10 @@ Koszt jest oznaczony symbolem akcji.
             - w pomieszczeniu bez zasilania rzuć kością przewagi
             ??? "Dowiedz się więcej o rezultacie rzutu kością przewagi"
                 ![wynik-rzutu-koscia-przewagi.png](wynik-rzutu-koscia-przewagi.png)
-        - Oznacz ile obrażeń dostał Nocny Łowca i sprawdź czy zmarł
-            - To jakieś kontr-intuicyjne, bo z góry nie wiem ile ma życia XDDD
+        - Oznacz, ile obrażeń dostał Nocny Łowca i sprawdź, [czy zmarł](..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
+            - Nalepa Note: To brzmi ciut kontrintuicyjnie, bo z góry nie wiem ile ma życia
 - #### Walka wręcz
-    - Atakujesz nocnego łowcę gołymi rękoma, albo prowizoryczną bronią
+    - Atakujesz nocnego łowcę gołymi rękoma albo, prowizoryczną bronią
     - Wymagania:
         - :moneybag: 1 karta akcji
         - Nocny Łowca musi się znajdować z Tobą w pomieszczeniu
@@ -148,14 +139,14 @@ Koszt jest oznaczony symbolem akcji.
             - Pusta ściana
                 - Chybiam i [dostaję 1 odkrytą głęboką ranę](../../powtarzalne/dostaje-rane/dostaje-rane)
             - 1 obrażenie
-                - Zadaje po prostu jedno obrażenie łowcy 
+                - Zadaje po prostu [jedno obrażenie łowcy](..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
             - 2 obrażenia
-                - I tak zadaję tylko 1 obrażenie, bo to walka wręcz
+                - I tak [zadaję tylko 1 obrażenie, bo to walka wręcz](..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
             - Pełzacz
-                - Walczę z pełzaczem albo kimś słabszym, to zadaję 1 ranę i sprawdzam czy zmarł
+                - Walczę z pełzaczem albo kimś słabszym, [to zadaję 1 ranę i sprawdzam, czy zmarł](..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
                 - Walczę z kimś silniejszym, chybiam i [dostaję 1 odkrytą głęboką ranę](../../powtarzalne/dostaje-rane/dostaje-rane)
             - Dorosły osobnik
-                - Walczę z dorosłym osobnikiem albo kimś słabszym, to zadaję 1 ranę i sprawdzam czy zmarł
+                - Walczę z dorosłym osobnikiem albo kimś słabszym, to [zadaję 1 ranę i sprawdzam, czy zmarł](..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
                 - Walczę z kimś silniejszym, chybiam i [dostaję 1 odkrytą głęboką ranę](../../powtarzalne/dostaje-rane/dostaje-rane)
 - #### Ucieczka
 - Wymagania:
