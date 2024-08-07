@@ -1,22 +1,22 @@
-# Akcje graczy - Podstawowe informacje
+# Akcje graczy
 
-Aby wykonywać akcje, należy posiadać karty akcji. 
-Karty skażenia nie liczą się do kart akcji.
+Tutaj są podstawowe informacje o akcjach graczy.
+
+- Wymagania:
+    - Aby wykonywać akcje, należy posiadać karty akcji. 
+    - Karty skażenia nie liczą się do kart akcji.
 
 
 ### Płacenie za akcje
 
-Aby móc wykonać daną akcję, należy zapłacić jej koszt. 
-
-Płatność polega na odrzuceniu danej ilości kart akcji z ręki.
-
-Kartami skażenia nie można płacić.
+- Jak to wygląda:
+    - Aby móc wykonać daną akcję, należy zapłacić jej koszt. 
+    - Płatność polega na odrzuceniu danej ilości kart akcji z ręki.
+    - Kartami skażenia nie można płacić.
 
 Koszt jest oznaczony symbolem akcji.
+
 ![symbol-akcji.png](symbol-akcji.png)
 
-
-### Rodzaje akcji
-
-- W 
-
+### Jakie są dostępne akcje?
+Sprawdź w menu.

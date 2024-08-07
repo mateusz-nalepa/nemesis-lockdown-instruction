@@ -38,7 +38,6 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 nav:
   - Strona Główna: index.md
-  - Dostępne akcje Deprecated: podstawowa-wersja/podstawowa-wersja-akcje.md
   - Podstawowe info:
       - Gdzie zaczyna dana postać: podstawowa-wersja/poczatek-gry/gdzie-zaczynam.md
       - Plansza Laboratorium: podstawowa-wersja/plansza-laboratorium.md

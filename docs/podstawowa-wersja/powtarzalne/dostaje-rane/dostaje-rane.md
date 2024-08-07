@@ -7,7 +7,8 @@
         - Nalepa info: Ja bym je po prostu upuszczał 
     - Kładę żeton zwłok postaci
     - Jeśli umarłem i:
-        - byłem pierwszą postacią co zmarła, to otwiera się brama główna 
+        - byłem pierwszą postacią co zmarła, to:
+            - Jest to przełomowe! Otwiera się brama główna 
             - usuwam jej żeton z planszy 
         - byłem ostanią żyjącą postacią, nie licząc tych z Izolatki, to następuje [koniec gry](..%2F..%2Fkoniec-gry%2Fkoniec-gry.md)
 
