@@ -1,7 +1,10 @@
 # Koniec gry
 
 
-TODO: Weź tutaj podlinkuj wszystkie akcje, kiedy to może się stać
+## Kiedy może w ogóle wystąpić?
+- Gdy nie ma już znaczników awarii i gracz musi umieścić następny
+- Gdy nie ma już znaczników pożaru i gracz musi umieścić następny
+- Gdy plan awaryjny tak mówi
 
 
 - Czy baza została zniszczona?
