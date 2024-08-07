@@ -1,10 +1,11 @@
 # Podnoszenie ciężkiego przedmiotu
 
-- Podnoszenie ciężkiego obiektu
+- Wymagania:
     - :moneybag: 1 karta akcji
     - Mogę podnieść, gdy jest awaria
-    - TODO: Mogę, gdy jest pożar?
-    - TODO: Mogę, gdy jest nocny łowca lub gracz??
+    - Nalepa rule: Mogę, gdy jest pożar
+    - Nalepa rule: Nie mogę, gdy jest nocny łowca
+- Konsekwencje:
     - podnieś wybrany obiekt do ręki, o ile masz miejsce: 
         - żeton zwłok postaci
         - żeton truchła 

@@ -11,13 +11,14 @@
     - Jak wykonam jedną turę i nie chce już więcej
     - Jak w ogóle nic nie robię, bo mi np. karty nie pasują
     - Gdy już mi brak kart akcji
+    - Gdy jakaś karta akcji, pomieszczenia mi tak mówi
 
 - Jakie ma konsekwencje PAS?
     - Nie można już wykonać więcej akcji w tej rundzie
     - Można odrzucić z ręki dowolną liczbę kart
     - Pasowanie liczy się jako akcja wykonana w turze
     - Jeśli pasuję w pomieszczeniu ze znacznikiem pożaru, to:
-      - Otrzymuje 1 powierzchowną ranę TODO: Link do gracz otrzymuje ranę
+      - [Otrzymuje 1 powierzchowną ranę](..%2F..%2Fpowtarzalne%2Fdostaje-rane%2Fdostaje-rane.md)
       - W tej rundzie nie otrzyma już żadnych dodatkowych obrażeń od pożaru
 
 

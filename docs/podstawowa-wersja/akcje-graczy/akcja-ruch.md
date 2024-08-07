@@ -1,6 +1,6 @@
 # Akcja ruchu
 
-- W grze wyróżnia się dwa rodzaje ruchu.
+- W grze wyróżnia się dwa rodzaje ruchu:
     - Ruch podstawowy
     - Ruch ostrożny
 
@@ -17,16 +17,17 @@
 ### Podstawowy Ruch
 - Wymagania: 
     - Mam minimum jedną kartę akcji
-    - Konsekwencje
+- Konsekwencje
     - [Wykonuję rzut na szmery](rzut-na-szmery/rzut-na-szmery.md), gdy:
-    - w pomieszczeniu nie ma żadnego nocnego łowcy ani gracza 
+        - w pomieszczeniu nie ma żadnego nocnego łowcy ani gracza 
 
 ### Ostrożny Ruch
 - Wymagania: 
     - Mam minimum dwie karty akcji
-        - Chociaż jeden korytarz prowadzący do pomieszczenia gdzie chcę iść, nie ma znacznika szmeru
-        - Nie jestem zaangażowany w walkę
-        - TODO: oraz nikogo tam nie ma????
-    - Konsekwencje:
+    - Chociaż jeden korytarz prowadzący do pomieszczenia gdzie chcę iść, nie ma znacznika szmeru
+    - Nie jestem zaangażowany w walkę
+        - Nalepa rule: Oraz nie ma tam żadnej postaci gracza
+- Konsekwencje:
     - Nie wykonuje rzutu na szmery
-    - Po ostrożnym ruchu umieszczam w wybranym przez siebie miejscu znacznik szmeru, gdy nie ma tam żadnego Nocnego Łowcy ani postaci
+    - Po ostrożnym ruchu umieszczam w wybranym przez siebie miejscu znacznik szmeru
+        - gdy nie ma tam żadnego Nocnego Łowcy ani postaci

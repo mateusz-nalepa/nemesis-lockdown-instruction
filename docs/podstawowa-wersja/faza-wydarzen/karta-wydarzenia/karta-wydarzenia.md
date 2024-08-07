@@ -6,21 +6,17 @@ Dobieracie i rozgrywacie jedną kartę wydarzenia!
 
 - Ruch nocnych łowców
     - Wszyscy nocni łowcy dla których:
-        - Symbol znaduje się na karcie (1)
+        - Symbol znajduje się na karcie (1)
         - Nie są zaangażowani w walkę z postacią
     - Przechodzą do sąsiedniego korytarzem o numerze z karty (2)
-        - TODO: jeśli idą tam gdzie jest postać, to zostawiamy znaczniki szmerów? Czy usuwamy? Imo bym usuwał 
+        - Jeśli idą tam, gdzie jest postać [to rozgrywam spotkanie z nocnym łowcą](..%2F..%2Fakcje-graczy%2Fnocny-lowca-spotkanie%2Fnocny-lowca-spotkanie.md)
         - Jeśli są tam drzwi, to zostają one zniszczone i łowca nie przechodzi
         - Jeśli jest więcej niż jeden numer, to idą nimi po kolei
-            - Ale jeśli po danym przejściu już jest w pomieszczeniu z postacią, to nie idzie dalej
-            - TODO: Należy rozpatrzeć Spotkanie z Nocnym Łowcą?
-                - tak, to jest default wg zasad, bo przyszedł tutaj nagle XD
-                    - w takiej sytuacji weź wydziel gdzieś spotkanie z nocnym łowcą osobno 
-                - nie, bo co za dużo to nie zdrowo XD
+            - Jeśli po danym przejściu już jest w pomieszczeniu z postacią [to rozgrywam spotkanie z nocnym łowcą](..%2F..%2Fakcje-graczy%2Fnocny-lowca-spotkanie%2Fnocny-lowca-spotkanie.md)
         - Jeśli numer na karcie wskazuje korytarz techniczny:
             - Należy usunąć figurkę danego łowcy z planszy
             - Dołożyć do woreczka losowy żeton tego samego rodzaju
-                - Losowy, bo nawet jeśli zamienie przykładowo dorosłego osobnika na innego, to ma on inne statystyki 
+                - Losowy, bo nawet jeśli zamienię przykładowo dorosłego osobnika na innego, to ma on inne statystyki 
 
 - Efekt wydarzenia
     - Rozpatrz efekt opisany na karcie (3) 

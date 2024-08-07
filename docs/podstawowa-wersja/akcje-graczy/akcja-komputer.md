@@ -12,6 +12,6 @@
     - Gracz kładzie kartę na sam spód stosu i odkrywa kolejną
         - Jeśli odkrył kartę `Lockdown`, natychmiast rozpatruję się jej efekt
         - [Umieszczam znacznik awarii](../../powtarzalne/awaria/umieszczam-awarie) tam gdzie jestem
-        - Tasuję karty komputera i odkrywam wierzchnią kartę z talii (TODO: to nie może być karta Lockdown??)
+        - Tasuję karty komputera i odkrywam wierzchnią kartę z talii, dopóki to nie będzie `Lockdown`
     - podnoszę poziom wiedzy o jeden
 
