@@ -6,19 +6,20 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
 - Wymagania:
     - :moneybag: zgodnie z numerem na karcie
     - Pomieszczenie nie może być zepsute 
+    - Mogę nawet wtedy, gdy jest pożar
     - Musi być symbol zasilania
-        - Nalepa info: To bym stosował tylko w przypadku pomieszczeń z komputerem?
-    - Nie można wykonywać akcji pomieszczenia w trakcie walki z Nocnym Łowcą
+        - Nalepa info: To bym stosował tylko w przypadku pomieszczeń z komputerem
+    - W pomieszczeniu nie może być Nocnego Łowcy
 - Konsekwencje:
     - Wykonuje kartę danego pomieszczenia
 
 ### Zasilanie Awaryjne
-- Wykonaj te rzeczy:
-    - Zresetuj zasilanie
-        - nie rób, jeśli są 3 żetony zasilania zwrócone ku górze
-    - ustaw zasilanie
+- Wymagania:
+    - nie mogę, jeśli są 3 żetony zasilania zwrócone ku górze, czyli na niebiesko
+- Konsekwencje:
+    - Ustaw zasilanie
         - rozmieść żetony zasilania tak jak chcesz
-    - ustaw żeton czasu aktywną stroną ku górze, czyli na niebieski kolor
+    - Ustaw żeton czasu aktywną stroną ku górze, czyli na niebieski kolor
         - jeśli był nieaktywny, czyli czerwony
 
 ### Centrum Szybkiego Reagowania
@@ -55,24 +56,24 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
     - Wyleczyć całkowicie 1 wybraną głęboką ranę
     - Opatrzyć wszystkie głębokie rany
         - czyli je odwrócić
-    - Uleczyć wszystkie powierzchowne rany
+    - Wyleczyć całkowicie wszystkie powierzchowne rany
 
 
 ### Centrum kontroli wysyłki CARGO
-- Tutaj mogę:
-    - podejrzeć wybrany żeton SWC
-        - i go przesunąć o jedno pole w prawo lub lewo
-            - o ile nie ma tam znacznika czasu
-            - ani innego żetonu SWC
+- Tutaj mogę podejrzeć wybrany żeton SWC
+    - I go przesunąć o jedno pole w prawo lub lewo
+        - o ile nie ma tam znacznika czasu
+        - ani innego żetonu SWC
 
 ### System wysyłki CARGO A
 - Wymagania:
-    - tylko wtedy, gdy żeton czasu znajduje się na polu którym leży dowolny żeton SWC
+    - tylko wtedy, gdy żeton czasu znajduje się na polu, na którym leży dowolny żeton SWC
     - kapsuła A jest pusta
 - Konsekwencje:
     - odrzucam wszystkie karty z ręki i robię PAS  
     - umieszczam figurkę w danym polu kapsuły
     - nie wpływają na mnie żadne efekty z gry
+        - takie jak na przykład, zniszczenie bazy, wtedy nie umieram 
         - chyba że zaznaczono na jakiejś karcie inaczej 
 
 ### System wysyłki CARGO B
@@ -82,12 +83,11 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
 - Analogicznie jak wyżej
 
 ### System Chłodzenia
-- Tutaj mogę:
-    - rozpocząć procedurę odliczania do autodestrukcji
-        - weź żeton autodestrukcji i umieść go na torze czasu o 3 pola na prawo
-            - 2 pola toru czasu będą wtedy puste
-        - umieść go żółtą stroną ku górze
-        - dopóki żółta strona jest widoczna, można przerwać odliczanie
+- Rozpoczynam procedurę odliczania do autodestrukcji:
+    - Biorę żeton autodestrukcji i umieszczam go na torze czasu o 3 pola na prawo
+        - 2 pola toru czasu będą wtedy puste
+    - umieszczam go żółtą stroną ku górze
+    - dopóki żółta strona jest widoczna, można przerwać odliczanie
 
 ### Generator
 - Tutaj mogę:
@@ -96,17 +96,15 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
     - Zatrzymać procedurę autodestrukcji, gdy żeton jest zwrócony żółtą stroną ku górze
 
 ### Laboratorium
-- Tutaj mogę:
-    - przebadać 
-        - jedno z wybranych:
-            - zwłoki postaci
-            - truchło
-            - jajo
-        - następnie podnoszę wtedy poziom wiedzy postaci o 3
-        - kładę przebadany obiekt na pustym polu planszy lab od lewej
-            - jeśli dany obiekt nie został przebadany jeszcze, to
-                - odkrywam słabość Nocnego Łowcy
-            - jak został, to po prostu odrzucam obiekt do puli ogólnej
+- Badam jedno z wybranych, o ile oczywiście mam na ręce
+    - zwłoki postaci
+    - truchło
+    - jajo
+- Następnie podnoszę wtedy poziom wiedzy postaci o 3
+- Następnie kładę przebadany obiekt na pustym polu planszy laboratorium od lewej
+    - jeśli dany obiekt nie został przebadany jeszcze, to
+        - odkrywam słabość Nocnego Łowcy
+    - jak został, to po prostu odrzucam obiekt do puli ogólnej
 
 ### Gniazdo
 - Gracz, który je odkrył, natychmiast podnosi poziom wiedzy o 1
@@ -117,15 +115,15 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
         - jeśli wszystkie są zniszczone, to gniazdo uznaje się za zniszczone
             - umieszczam wtedy znacznik amunicji
     - jeśli w fazie wydarzeń, dokładniej skutki pożarów, są tutaj jakieś jaja, to niszczę 1 z nich
-        - Nalepa info: Może mogę wtedy zniszczyć wszystkie?
+        - Nalepa info: Ja bym wtedy niszczył wszystkie jaja
 
 ### Archiwum
 - Wymagania:
     - tylko wtedy, gdy mój żeton wiedzy jest nieaktywny 
 - Tutaj mogę:
     - podnieś poziom wiedzy o dwa
-        - obrócić żeton wiedzy na aktywną stronę
-        - podejrzyj treść dowolnego żetonu planu awaryjnego
+        - obracam wtedy żeton wiedzy na aktywną stronę
+        - moh® podejrzeć treść dowolnego żetonu planu awaryjnego
             - nie licząc tego na końcu toru czasu
 
 ### Wejście do jaskini
@@ -157,13 +155,12 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
 
 ### Szyb Windy S-01
 - Musi mieć aktywne zasilanie
-- Nie mogę być zaangażowany w walkę
-- Wtedy mogę:
+- Gracz nie mogę być zaangażowany w walkę
+- Wtedy można:
     - wezwać windę, gdy jest w innym miejscu
-    - skorzystać z windy, gdy jest obok mnie
-        - mogę kogoś zabrać, jeśli chce
+    - skorzystać z windy, gdy jest obok gracza
+        - gracz może zabrać innego gracza, jeśli tamten chce
         - nie wykonuje rzutu na szmery:
-            - Nalepa info: A może by jednak wykonywać?
 
 ### Szyb Windy S-03
 - Jak wyżej
@@ -177,7 +174,7 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
         - umieszczam znacznik statusu na swojej planszy
     - sprawdzić cel innego gracza
         - o ile wysłał już sygnał 
-        - musi mi go w sekrecie pokazać 
+            - musi mi go w sekrecie pokazać 
 
 ### Kwatera straży
 - Zmniejszam wartość przedmiotów o 1 i biorę jedną z tych kart ze stosu samoróbek, o ile są:
@@ -186,7 +183,7 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
     - Nalepa info: Biorę kartę, jak nie ma już, to sobie na jakiejś kartce ją dorysuję :grin:
 
 ### Skażone pomieszczenie
-- Za każdym razem, gdy je przeszukuje, umieszczam znacznik śluzu
+- Za każdym razem, gdy je przeszukuje, umieszczam znacznik śluzu na planszy swojego
 
 ### Kontrola Systemu Wentylacji
 - Wybieram pomieszczenie gdzie:
@@ -207,8 +204,9 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
 - Konsekwencje:
     - Wybierz pomieszczenie bez znacznika awarii
     - Umieść tam awarię
-    - Każdy nocny łowca co tam jest, [otrzymuje po 1 obrażeniu](..%2F..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
-    - Każda postać co tam jest, [otrzymuje 1 głęboką ranę](..%2F..%2Fpowtarzalne%2Fdostaje-rane%2Fdostaje-rane.md)
+        - Każdy nocny łowca co tam jest, [otrzymuje po 1 obrażeniu](..%2F..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
+        - Każda postać co tam jest, [otrzymuje 1 głęboką ranę](..%2F..%2Fpowtarzalne%2Fdostaje-rane%2Fdostaje-rane.md)
+        - Nalepa info: Ja bym umieścił znacznik pożaru
 
 ### Pokój testów
 - Wymagania:
