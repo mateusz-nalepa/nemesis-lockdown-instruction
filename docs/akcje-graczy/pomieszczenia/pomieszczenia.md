@@ -26,13 +26,13 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
 - Tutaj mogę:
     - Sprawdzić żeton planu awaryjnego z puli neutralnej
         - Drogą dedukcji może mi to pomóc ocenić, jaki jest obowiązujący plan awaryjny
-        ![obowiazujacy-plan-awaryjny.png](../../../obrazki-common/obowiazujacy-plan-awaryjny.png)
+        ![obowiazujacy-plan-awaryjny.png](../../obrazki-common/obowiazujacy-plan-awaryjny.png)
     - Aktywować procedurę alarmową
         - Podziel numer pola, na którym się znajduje żeton czasu przez 2 i zaokrąglij w dół
         - Przykładowo: 11 / 2 = 5.5 => 5 
         - Umieść tam żeton planu awaryjnego
          
-        ![zeton-planu-awaryjnego.png](../../../obrazki-common/zeton-planu-awaryjnego.png)
+        ![zeton-planu-awaryjnego.png](../../obrazki-common/zeton-planu-awaryjnego.png)
 
         - Natychmiast otwiera się Izolatka i postacie mogą się w niej zamykać
 

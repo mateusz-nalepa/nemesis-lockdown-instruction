@@ -39,43 +39,43 @@ markdown_extensions:
 nav:
   - Strona Główna: index.md
   - Podstawowe info:
-      - Gdzie zaczyna dana postać: podstawowa-wersja/poczatek-gry/gdzie-zaczynam.md
-      - Plansza Laboratorium: podstawowa-wersja/plansza-laboratorium.md
-      - Koniec gry: podstawowa-wersja/koniec-gry/koniec-gry.md
-      - Warunki zwycięstwa: podstawowa-wersja/warunki-zwyciestwa/warunki-zwyciestwa.md
+      - Gdzie zaczyna dana postać: poczatek-gry/gdzie-zaczynam.md
+      - Plansza Laboratorium: plansza-laboratorium.md
+      - Koniec gry: koniec-gry/koniec-gry.md
+      - Warunki zwycięstwa: warunki-zwyciestwa/warunki-zwyciestwa.md
   - Rzeczy powtarzalne:
       - Akcje:
-        - Podstawowe info: podstawowa-wersja/akcje-graczy/akcje-podstawowe-info.md
-        - Ruch: podstawowa-wersja/akcje-graczy/akcja-ruch.md
-        - Przeszukanie: podstawowa-wersja/akcje-graczy/akcja-przeszukanie.md
-        - Akcje pomieszczeń: podstawowa-wersja/akcje-graczy/akcja-pomieszczenia.md
-        - Akcje kart akcji: podstawowa-wersja/akcje-graczy/akcja-karty-akcji.md
-        - Akcje kart przedmiotów: podstawowa-wersja/akcje-graczy/akcja-karty-przedmiotow.md
-        - Podnieś ciężki obiekt: podstawowa-wersja/akcje-graczy/akcja-podnies-ciezki-obiekt.md
-        - Upuść przedmiot: podstawowa-wersja/akcje-graczy/akcja-upusc-przedmiot.md
-        - Handel: podstawowa-wersja/akcje-graczy/akcja-handel.md
-        - Zrób przedmiot: podstawowa-wersja/akcje-graczy/akcja-zrob-przedmiot.md
-        - Walka: podstawowa-wersja/akcje-graczy/akcja-walka.md
-        - Niszczenie jaj: podstawowa-wersja/akcje-graczy/akcja-niszczenie-jaj.md
-        - Ucieczka: podstawowa-wersja/akcje-graczy/akcja-ucieczka.md
-        - Komputer: podstawowa-wersja/akcje-graczy/akcja-komputer.md
-        - Skanowanie kart skażenia: podstawowa-wersja/akcje-graczy/akcja-skanowanie-kart.md
-        - Pomieszczenia: podstawowa-wersja/akcje-graczy/pomieszczenia/pomieszczenia.md
-      - Spotkanie Nocnego Łowcy: podstawowa-wersja/akcje-graczy/nocny-lowca-spotkanie/nocny-lowca-spotkanie.md
-      - Umieszczenie pożaru: podstawowa-wersja/powtarzalne/pozar/umieszczam-pozar.md
-      - Umieszczenie awarii: podstawowa-wersja/powtarzalne/awaria/umieszczam-awarie.md
+        - Podstawowe info: akcje-graczy/akcje-podstawowe-info.md
+        - Ruch: akcje-graczy/akcja-ruch.md
+        - Przeszukanie: akcje-graczy/akcja-przeszukanie.md
+        - Akcje pomieszczeń: akcje-graczy/akcja-pomieszczenia.md
+        - Akcje kart akcji: akcje-graczy/akcja-karty-akcji.md
+        - Akcje kart przedmiotów: akcje-graczy/akcja-karty-przedmiotow.md
+        - Podnieś ciężki obiekt: akcje-graczy/akcja-podnies-ciezki-obiekt.md
+        - Upuść przedmiot: akcje-graczy/akcja-upusc-przedmiot.md
+        - Handel: akcje-graczy/akcja-handel.md
+        - Zrób przedmiot: akcje-graczy/akcja-zrob-przedmiot.md
+        - Walka: akcje-graczy/akcja-walka.md
+        - Niszczenie jaj: akcje-graczy/akcja-niszczenie-jaj.md
+        - Ucieczka: akcje-graczy/akcja-ucieczka.md
+        - Komputer: akcje-graczy/akcja-komputer.md
+        - Skanowanie kart skażenia: akcje-graczy/akcja-skanowanie-kart.md
+        - Pomieszczenia: akcje-graczy/pomieszczenia/pomieszczenia.md
+      - Spotkanie Nocnego Łowcy: akcje-graczy/nocny-lowca-spotkanie/nocny-lowca-spotkanie.md
+      - Umieszczenie pożaru: powtarzalne/pozar/umieszczam-pozar.md
+      - Umieszczenie awarii: powtarzalne/awaria/umieszczam-awarie.md
   - Faza graczy:
-    - Czym jest faza graczy?: podstawowa-wersja/faza-graczy/faza-graczy.md
-    - 1. Dobieranie kart akcji: podstawowa-wersja/faza-graczy/dobieranie-kart-akcji/dobieranie-kart-akcji.md
-    - 2. Przekazanie żetonu gracza: podstawowa-wersja/faza-graczy/przekazanie-zetonu-gracza/przekazanie-zetonu-gracza.md
-    - 3. Tury graczy: podstawowa-wersja/faza-graczy/tury-graczy/tury-graczy.md
+    - Czym jest faza graczy?: faza-graczy/faza-graczy.md
+    - 1. Dobieranie kart akcji: faza-graczy/dobieranie-kart-akcji/dobieranie-kart-akcji.md
+    - 2. Przekazanie żetonu gracza: faza-graczy/przekazanie-zetonu-gracza/przekazanie-zetonu-gracza.md
+    - 3. Tury graczy: faza-graczy/tury-graczy/tury-graczy.md
   - Faza wydarzeń:
-    - Czym jest faza wydarzeń: podstawowa-wersja/faza-wydarzen/faza-wydarzen.md
-    - 4. Wystrzelenie kapsuł SWC: podstawowa-wersja/faza-wydarzen/wystrzelenie-kapsul-swc/wystrzelenie-kapsul-swc.md
-    - 5. Tor czasu: podstawowa-wersja/faza-wydarzen/tor-czasu/tor-czasu.md
-    - 6. Usunięcie znaczników szmerów: podstawowa-wersja/faza-wydarzen/usuniecie-znacznikow-szmerow/usuniecie-znacznikow-szmerow.md
-    - 7. Atak nocnego łowcy: podstawowa-wersja/faza-wydarzen/atak-nocnego-lowcy/atak-nocnego-lowcy.md
-    - 8. Skutki pożaru dla łowcy: podstawowa-wersja/faza-wydarzen/skutki-pozaru-dla-lowcy/skutki-pozaru-dla-lowcy.md
-    - 9. Karta wydarzenia: podstawowa-wersja/faza-wydarzen/karta-wydarzenia/karta-wydarzenia.md
-    - 10. Kolonia nocnych łowców: podstawowa-wersja/faza-wydarzen/kolonia-nocnych-lowcow/kolonia-nocnych-lowcow.md
-    - 11. Koniec rundy: podstawowa-wersja/faza-wydarzen/koniec-rundy/koniec-rundy.md
+    - Czym jest faza wydarzeń: faza-wydarzen/faza-wydarzen.md
+    - 4. Wystrzelenie kapsuł SWC: faza-wydarzen/wystrzelenie-kapsul-swc/wystrzelenie-kapsul-swc.md
+    - 5. Tor czasu: faza-wydarzen/tor-czasu/tor-czasu.md
+    - 6. Usunięcie znaczników szmerów: faza-wydarzen/usuniecie-znacznikow-szmerow/usuniecie-znacznikow-szmerow.md
+    - 7. Atak nocnego łowcy: faza-wydarzen/atak-nocnego-lowcy/atak-nocnego-lowcy.md
+    - 8. Skutki pożaru dla łowcy: faza-wydarzen/skutki-pozaru-dla-lowcy/skutki-pozaru-dla-lowcy.md
+    - 9. Karta wydarzenia: faza-wydarzen/karta-wydarzenia/karta-wydarzenia.md
+    - 10. Kolonia nocnych łowców: faza-wydarzen/kolonia-nocnych-lowcow/kolonia-nocnych-lowcow.md
+    - 11. Koniec rundy: faza-wydarzen/koniec-rundy/koniec-rundy.md

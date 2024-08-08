@@ -9,3 +9,6 @@ mkdocs serve
 
 
 pip install mkdocs-material
+
+
+```mkdocs-linkcheck```
