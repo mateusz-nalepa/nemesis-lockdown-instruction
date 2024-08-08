@@ -9,10 +9,10 @@ Dobieracie i rozgrywacie jedną kartę wydarzenia!
         - Symbol znajduje się na karcie (1)
         - Nie są zaangażowani w walkę z postacią
     - Przechodzą do sąsiedniego korytarzem o numerze z karty (2)
-        - Jeśli idą tam, gdzie jest postać [to rozgrywam spotkanie z nocnym łowcą](..%2F..%2Fakcje-graczy%2Fnocny-lowca-spotkanie%2Fnocny-lowca-spotkanie.md)
+        - Jeśli idą tam, gdzie jest postać [to rozgrywam spotkanie z nocnym łowcą](../powtarzalne/nocny-lowca-spotkanie.md)
         - Jeśli są tam drzwi, to zostają one zniszczone i łowca nie przechodzi
         - Jeśli jest więcej niż jeden numer, to idą nimi po kolei
-            - Jeśli po danym przejściu już jest w pomieszczeniu z postacią [to rozgrywam spotkanie z nocnym łowcą](..%2F..%2Fakcje-graczy%2Fnocny-lowca-spotkanie%2Fnocny-lowca-spotkanie.md)
+            - Jeśli po danym przejściu już jest w pomieszczeniu z postacią [to rozgrywam spotkanie z nocnym łowcą](../powtarzalne/nocny-lowca-spotkanie.md)
         - Jeśli numer na karcie wskazuje korytarz techniczny:
             - Należy usunąć figurkę danego łowcy z planszy
             - Dołożyć do woreczka losowy żeton tego samego rodzaju

@@ -34,7 +34,7 @@
         - w pomieszczeniu bez zasilania rzuć kością przewagi
         ??? "Dowiedz się więcej o rezultacie rzutu kością przewagi"
             ![wynik-rzutu-koscia-przewagi.png](wynik-rzutu-koscia-przewagi.png)
-    - Oznacz, ile obrażeń dostał Nocny Łowca i sprawdź, [czy zmarł](..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
+    - Oznacz, ile obrażeń dostał Nocny Łowca i sprawdź, [czy zmarł](../powtarzalne/lowca-dostaje-rane.md)
         - Nalepa Note: To brzmi ciut kontrintuicyjnie, bo z góry nie wiem ile ma życia
 ### Walka wręcz
 - Atakujesz nocnego łowcę gołymi rękoma albo, prowizoryczną bronią
@@ -46,15 +46,15 @@
     - Po opłaceniu dobieram do stosu kart odrzuconych 1 kartę skażenia 
     - Wynik kości walki:
         - Pusta ściana
-            - Chybiam i [dostaję 1 odkrytą głęboką ranę](../../powtarzalne/dostaje-rane/dostaje-rane)
+            - Chybiam i [dostaję 1 odkrytą głęboką ranę](../../powtarzalne/dostaje-rane)
         - 1 obrażenie
-            - Zadaje po prostu [jedno obrażenie łowcy](..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
+            - Zadaje po prostu [jedno obrażenie łowcy](../powtarzalne/lowca-dostaje-rane.md)
         - 2 obrażenia
-            - I tak [zadaję tylko 1 obrażenie, bo to walka wręcz](..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
+            - I tak [zadaję tylko 1 obrażenie, bo to walka wręcz](../powtarzalne/lowca-dostaje-rane.md)
         - Pełzacz
-            - Walczę z pełzaczem albo kimś słabszym, [to zadaję 1 ranę i sprawdzam, czy zmarł](..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
-            - Walczę z kimś silniejszym, chybiam i [dostaję 1 odkrytą głęboką ranę](../../powtarzalne/dostaje-rane/dostaje-rane)
+            - Walczę z pełzaczem albo kimś słabszym, [to zadaję 1 ranę i sprawdzam, czy zmarł](../powtarzalne/lowca-dostaje-rane.md)
+            - Walczę z kimś silniejszym, chybiam i [dostaję 1 odkrytą głęboką ranę](../../powtarzalne/dostaje-rane)
         - Dorosły osobnik
-            - Walczę z dorosłym osobnikiem albo kimś słabszym, to [zadaję 1 ranę i sprawdzam, czy zmarł](..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
-            - Walczę z kimś silniejszym, chybiam i [dostaję 1 odkrytą głęboką ranę](../../powtarzalne/dostaje-rane/dostaje-rane)
+            - Walczę z dorosłym osobnikiem albo kimś słabszym, to [zadaję 1 ranę i sprawdzam, czy zmarł](../powtarzalne/lowca-dostaje-rane.md)
+            - Walczę z kimś silniejszym, chybiam i [dostaję 1 odkrytą głęboką ranę](../../powtarzalne/dostaje-rane)
 

@@ -10,7 +10,7 @@
         - byłem pierwszą postacią co zmarła, to:
             - Jest to przełomowe! Otwiera się brama główna 
             - usuwam jej żeton z planszy 
-        - byłem ostanią żyjącą postacią, nie licząc tych z Izolatki, to następuje [koniec gry](..%2F..%2Fkoniec-gry%2Fkoniec-gry.md)
+        - byłem ostanią żyjącą postacią, nie licząc tych z Izolatki, to następuje [koniec gry](../podstawowe-informacje/koniec-gry.md)
 
 ## Dostaję powierzchowną ranę
 - Jak mam dostać powierzchowną ranę numer 3, to wtedy dostaję głęboką ranę

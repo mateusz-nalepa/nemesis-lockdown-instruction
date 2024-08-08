@@ -19,4 +19,4 @@ Koszt jest oznaczony symbolem akcji.
 ![symbol-akcji.png](symbol-akcji.png)
 
 ### Jakie są dostępne akcje?
-Sprawdź w menu.
+Sprawdź w menu :wink:

@@ -13,4 +13,4 @@
             - są w izolatce
     - Nie
         - Rozpatruję wtedy efekt Obowiązującego Planu Awaryjnego
-        - Sprawdź [Warunki zwycięstwa](../warunki-zwyciestwa/warunki-zwyciestwa.md)
+        - Sprawdź [Warunki zwycięstwa](warunki-zwyciestwa.md)

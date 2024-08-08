@@ -26,13 +26,13 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
 - Tutaj mogę:
     - Sprawdzić żeton planu awaryjnego z puli neutralnej
         - Drogą dedukcji może mi to pomóc ocenić, jaki jest obowiązujący plan awaryjny
-        ![obowiazujacy-plan-awaryjny.png](../../obrazki-common/obowiazujacy-plan-awaryjny.png)
+        ![obowiazujacy-plan-awaryjny.png](../obrazki-common/obowiazujacy-plan-awaryjny.png)
     - Aktywować procedurę alarmową
         - Podziel numer pola, na którym się znajduje żeton czasu przez 2 i zaokrąglij w dół
         - Przykładowo: 11 / 2 = 5.5 => 5 
         - Umieść tam żeton planu awaryjnego
          
-        ![zeton-planu-awaryjnego.png](../../obrazki-common/zeton-planu-awaryjnego.png)
+        ![zeton-planu-awaryjnego.png](../obrazki-common/zeton-planu-awaryjnego.png)
 
         - Natychmiast otwiera się Izolatka i postacie mogą się w niej zamykać
 
@@ -46,7 +46,7 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
 - Skanuje wszystkie karty skażenia z dowolnego miejsca, jakie mam
     - usuwam te, które są zarażone
     - jak mam larwę na planszy, to usuwam ją
-    - [dostaję 1 powierzchowną ranę](..%2F..%2Fpowtarzalne%2Fdostaje-rane%2Fdostaje-rane.md)
+    - [dostaję 1 powierzchowną ranę](../powtarzalne/dostaje-rane.md)
     - automatycznie pasuje
     - formuje nowy stos kart akcji ze wszystkich kart
 
@@ -128,7 +128,7 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
 
 ### Wejście do jaskini
 - Przenieś się do dowolnego odkrytego pomieszczenia z wejściem do korytarzy technicznych
-    - [Rozpatrz 1 kartę ataku Nocnego Łowcy](..%2F..%2Ffaza-wydarzen%2Fatak-nocnego-lowcy%2Fatak-nocnego-lowcy.md)
+    - [Rozpatrz 1 kartę ataku Nocnego Łowcy](../powtarzalne/atak-nocnego-lowcy.md)
         - atak przeprowadza 1 dorosły osobnik
         - aktywny jest efekt ciemności
 
@@ -147,11 +147,11 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
     - Zamknąć się w środku
         - gdy procedura alarmowa jest aktywna
         - gdy żeton czasu jest na biały polu, czyli od 8
-        - Wtedy wykonuje [rzut na szmery](..%2Frzut-na-szmery%2Frzut-na-szmery.md)
+        - Wtedy wykonuje [rzut na szmery](../powtarzalne/rzut-na-szmery.md)
             - jak się pojawi dowolny nocny łowca, to nie udaje mi się zamknąć
             - jak nie, to zamykam się w Izolatce
                 - jestem już tylko obserwatorem 
-                - [czekam na koniec gry](..%2F..%2Fkoniec-gry%2Fkoniec-gry.md)
+                - [czekam na koniec gry](../podstawowe-informacje/koniec-gry.md)
 
 ### Szyb Windy S-01
 - Musi mieć aktywne zasilanie
@@ -204,8 +204,8 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
 - Konsekwencje:
     - Wybierz pomieszczenie bez znacznika awarii
     - Umieść tam awarię
-        - Każdy nocny łowca co tam jest, [otrzymuje po 1 obrażeniu](..%2F..%2Fpowtarzalne%2Fdostaje-rane%2Flowca-dostaje-rane.md)
-        - Każda postać co tam jest, [otrzymuje 1 głęboką ranę](..%2F..%2Fpowtarzalne%2Fdostaje-rane%2Fdostaje-rane.md)
+        - Każdy nocny łowca co tam jest, [otrzymuje po 1 obrażeniu](../powtarzalne/lowca-dostaje-rane.md)
+        - Każda postać co tam jest, [otrzymuje 1 głęboką ranę](../powtarzalne/dostaje-rane.md)
         - Nalepa info: Ja bym umieścił znacznik pożaru
 
 ### Pokój testów
@@ -224,11 +224,11 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
         - lub postać ma skafander kosmiczny 
     - w razie czego da się jakoś sprowadzić zdalnie łazik do bazy
 - Konsekwencje:
-    - wtedy wykonuje [rzut na szmery](..%2Frzut-na-szmery%2Frzut-na-szmery.md)
+    - wtedy wykonuje [rzut na szmery](../powtarzalne/rzut-na-szmery.md)
         - jak się pojawi dowolny nocny łowca, to nie udaje mi się zamknąć
         - jak nie, to zamykam się w Izolatce
             - jestem już tylko obserwatorem 
-            - [czekam na koniec gry](..%2F..%2Fkoniec-gry%2Fkoniec-gry.md)
+            - [czekam na koniec gry](../podstawowe-informacje/koniec-gry.md)
 
 ### Bunkier
 - Może być tam więcej niż 1 postać

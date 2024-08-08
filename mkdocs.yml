@@ -21,8 +21,8 @@ theme:
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.tracking
-#    - navigation.tabs
-#    - navigation.tabs.sticky
+    - navigation.tabs
+    - navigation.tabs.sticky
 #    - navigation.sections
     - navigation.expand
     - navigation.path
@@ -39,16 +39,16 @@ markdown_extensions:
 nav:
   - Strona Główna: index.md
   - Podstawowe info:
-      - Gdzie zaczyna dana postać: poczatek-gry/gdzie-zaczynam.md
-      - Plansza Laboratorium: plansza-laboratorium.md
-      - Koniec gry: koniec-gry/koniec-gry.md
-      - Warunki zwycięstwa: warunki-zwyciestwa/warunki-zwyciestwa.md
+      - Gdzie zaczyna dana postać: podstawowe-informacje/gdzie-zaczynam.md
+      - Plansza Laboratorium: podstawowe-informacje/plansza-laboratorium.md
+      - Koniec gry: podstawowe-informacje/koniec-gry.md
+      - Warunki zwycięstwa: podstawowe-informacje/warunki-zwyciestwa.md
   - Rzeczy powtarzalne:
       - Akcje:
         - Podstawowe info: akcje-graczy/akcje-podstawowe-info.md
         - Ruch: akcje-graczy/akcja-ruch.md
         - Przeszukanie: akcje-graczy/akcja-przeszukanie.md
-        - Akcje pomieszczeń: akcje-graczy/akcja-pomieszczenia.md
+        - Akcje pomieszczeń: pomieszczenia/lista-pomieszczen.md
         - Akcje kart akcji: akcje-graczy/akcja-karty-akcji.md
         - Akcje kart przedmiotów: akcje-graczy/akcja-karty-przedmiotow.md
         - Podnieś ciężki obiekt: akcje-graczy/akcja-podnies-ciezki-obiekt.md
@@ -60,22 +60,22 @@ nav:
         - Ucieczka: akcje-graczy/akcja-ucieczka.md
         - Komputer: akcje-graczy/akcja-komputer.md
         - Skanowanie kart skażenia: akcje-graczy/akcja-skanowanie-kart.md
-        - Pomieszczenia: akcje-graczy/pomieszczenia/pomieszczenia.md
-      - Spotkanie Nocnego Łowcy: akcje-graczy/nocny-lowca-spotkanie/nocny-lowca-spotkanie.md
-      - Umieszczenie pożaru: powtarzalne/pozar/umieszczam-pozar.md
-      - Umieszczenie awarii: powtarzalne/awaria/umieszczam-awarie.md
+        - Pomieszczenia: pomieszczenia/lista-pomieszczen.md
+      - Spotkanie Nocnego Łowcy: powtarzalne/nocny-lowca-spotkanie.md
+      - Umieszczenie pożaru: powtarzalne/umieszczam-pozar.md
+      - Umieszczenie awarii: powtarzalne/umieszczam-awarie.md
   - Faza graczy:
     - Czym jest faza graczy?: faza-graczy/faza-graczy.md
-    - 1. Dobieranie kart akcji: faza-graczy/dobieranie-kart-akcji/dobieranie-kart-akcji.md
-    - 2. Przekazanie żetonu gracza: faza-graczy/przekazanie-zetonu-gracza/przekazanie-zetonu-gracza.md
-    - 3. Tury graczy: faza-graczy/tury-graczy/tury-graczy.md
+    - 1. Dobieranie kart akcji: faza-graczy/01-dobieranie-kart-akcji.md
+    - 2. Przekazanie żetonu gracza: faza-graczy/02-przekazanie-zetonu-gracza.md
+    - 3. Tury graczy: faza-graczy/03-tury-graczy.md
   - Faza wydarzeń:
     - Czym jest faza wydarzeń: faza-wydarzen/faza-wydarzen.md
-    - 4. Wystrzelenie kapsuł SWC: faza-wydarzen/wystrzelenie-kapsul-swc/wystrzelenie-kapsul-swc.md
-    - 5. Tor czasu: faza-wydarzen/tor-czasu/tor-czasu.md
-    - 6. Usunięcie znaczników szmerów: faza-wydarzen/usuniecie-znacznikow-szmerow/usuniecie-znacznikow-szmerow.md
-    - 7. Atak nocnego łowcy: faza-wydarzen/atak-nocnego-lowcy/atak-nocnego-lowcy.md
-    - 8. Skutki pożaru dla łowcy: faza-wydarzen/skutki-pozaru-dla-lowcy/skutki-pozaru-dla-lowcy.md
-    - 9. Karta wydarzenia: faza-wydarzen/karta-wydarzenia/karta-wydarzenia.md
-    - 10. Kolonia nocnych łowców: faza-wydarzen/kolonia-nocnych-lowcow/kolonia-nocnych-lowcow.md
-    - 11. Koniec rundy: faza-wydarzen/koniec-rundy/koniec-rundy.md
+    - 4. Wystrzelenie kapsuł SWC: faza-wydarzen/04-wystrzelenie-kapsul-swc.md
+    - 5. Tor czasu: faza-wydarzen/05-tor-czasu.md
+    - 6. Usunięcie znaczników szmerów: faza-wydarzen/06-usuniecie-znacznikow-szmerow.md
+    - 7. Atak nocnego łowcy: faza-wydarzen/07-atak-nocnego-lowcy.md
+    - 8. Skutki pożaru dla łowcy: faza-wydarzen/08-skutki-pozaru-dla-lowcy.md
+    - 9. Karta wydarzenia: faza-wydarzen/09-karta-wydarzenia.md
+    - 10. Kolonia nocnych łowców: faza-wydarzen/10-kolonia-nocnych-lowcow.md
+    - 11. Koniec rundy: faza-wydarzen/11-koniec-rundy.md

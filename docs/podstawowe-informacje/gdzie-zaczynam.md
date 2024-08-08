@@ -1,13 +1,12 @@
 # Gdzie zaczyna dana postać
 
-
 - Izolatka
-    - Te postacie mają również domyślny poziom wiedzy na 3 
     - Ocalała
     - Królik Doświadczalny
+    - Ich domyślny poziom wiedzy to 3
 - Magazyn 
-    - Te postacie mają również domyślny poziom wiedzy na 1
     - Haker
     - Astrobiolożka
     - Wartownik
     - Sprzątacz
+    - Ich domyślny poziom wiedzy to 1

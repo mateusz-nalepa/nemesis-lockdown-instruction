@@ -26,4 +26,4 @@ Jeśli to pierwszy Nocny Łowca na mapie, niezależnie od rodzaju, to wtedy każ
     - Tak, więc nic się nie dzieje
 
 ## Atak z zaskoczenia
-- [Następuje atak Nocnego Łowcy!](../../faza-wydarzen/atak-nocnego-lowcy/atak-nocnego-lowcy.md)
+- [Następuje atak Nocnego Łowcy!](atak-nocnego-lowcy.md)

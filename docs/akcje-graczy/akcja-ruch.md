@@ -12,13 +12,13 @@
     - Nie mogę być zaangażowany w walkę
     - Nie mogę iść do zamkniętego pomieszczenia
     - Na spokojnie mogę iść, gdy drzwi są otwarte lub zniszczone
-    - [Gdy trafiam do nieodkrytego pomieszczenia (takie które ma żeton eksploracji) to je odkrywam na samym początku](pomieszczenia/odkrywam/odkrywam-pomieszczenie.md)
+    - [Gdy trafiam do nieodkrytego pomieszczenia (takie które ma żeton eksploracji) to je odkrywam na samym początku](../pomieszczenia/odkrywam-pomieszczenie.md)
 
 ### Podstawowy Ruch
 - Wymagania: 
     - Mam minimum jedną kartę akcji
 - Konsekwencje
-    - [Wykonuję rzut na szmery](rzut-na-szmery/rzut-na-szmery.md), gdy:
+    - [Wykonuję rzut na szmery](../powtarzalne/rzut-na-szmery.md), gdy:
         - w pomieszczeniu nie ma żadnego nocnego łowcy ani gracza 
 
 ### Ostrożny Ruch

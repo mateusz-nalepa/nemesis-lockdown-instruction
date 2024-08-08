@@ -13,7 +13,7 @@ Co się wylosowało?
     - Dla każdego gracza w kolejności rozgrywania:
         - Czy jestem zaangażowany w walkę z Nocnym Łowcą? 
             - Tak, więc nie wykonuje rzutu na szmery
-            - Nie, więc wykonuję [rzut-na-szmery](..%2F..%2Fakcje-graczy%2Frzut-na-szmery%2Frzut-na-szmery.md)
+            - Nie, więc wykonuję [rzut-na-szmery](../powtarzalne/rzut-na-szmery.md)
 - Reproduktor
     - Dzieje się dokładnie to samo, co dla `Dorosły osobnik`
 - Królowa
@@ -23,7 +23,7 @@ Co się wylosowało?
     - Są postacie w gnieździe:
         - Usuń ten żeton z woreczka
         - Umieść figurkę królowej na Gnieździe
-        - Rozegraj [Spotkanie z Królową](..%2F..%2Fakcje-graczy%2Fnocny-lowca-spotkanie%2Fnocny-lowca-spotkanie.md)
+        - Rozegraj [Spotkanie z Królową](../powtarzalne/nocny-lowca-spotkanie.md)
 - Pusty Żeton
     - Włóż żeton z powrotem do woreczka
     - Dołóż żeton dorosłego osobnika

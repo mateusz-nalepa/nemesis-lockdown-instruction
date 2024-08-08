@@ -14,4 +14,4 @@
          - Czy w dowolnym sąsiednim pomieszczeniu jest nocny łowca?
              - Nie, tym razem mi się upiekło! Umieszczam znacznik szmeru w każdym korytarzu prowadzącym do pomieszczenia
              - Tak, ale walczy obecnie! Umieszczam znacznik szmeru w każdym korytarzu prowadzącym do pomieszczenia
-             - Tak i nie walczy! To oznacza [Niebezpieczeństwo](niebezpieczenstwo/niebezpieczenstwo.md)
+             - Tak i nie walczy! To oznacza [Niebezpieczeństwo](niebezpieczenstwo.md)
