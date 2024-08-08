@@ -8,4 +8,4 @@
     - żeton jaja
 - Upuszczonego przedmiotu nie może podnieść inny gracz
     - Kartę przedmiotu kładę na odrzucony stos kart danego przedmiotu 
-    - `Nalepa info` Jakieś trochę takie bez sensu się to wydaje
+    - `Nalepa rule` Jakieś trochę takie bez sensu się to wydaje

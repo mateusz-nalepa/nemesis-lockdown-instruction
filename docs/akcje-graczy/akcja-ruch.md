@@ -12,7 +12,7 @@
     - Nie mogę być zaangażowany w walkę
     - Nie mogę iść do zamkniętego pomieszczenia
     - Na spokojnie mogę iść, gdy drzwi są otwarte lub zniszczone
-    - [Gdy trafiam do nieodkrytego pomieszczenia (takie które ma żeton eksploracji) to je odkrywam na samym początku](../pomieszczenia/odkrywam-pomieszczenie.md)
+    - [Gdy trafiam do nieodkrytego pomieszczenia (takie, które ma żeton eksploracji) to je odkrywam na samym początku](../pomieszczenia/odkrywam-pomieszczenie.md)
 
 ### Podstawowy Ruch
 - Wymagania: 
@@ -29,5 +29,6 @@
         - Nalepa rule: Oraz nie ma tam żadnej postaci gracza
 - Konsekwencje:
     - Nie wykonuje rzutu na szmery
-    - Po ostrożnym ruchu umieszczam w wybranym przez siebie miejscu znacznik szmeru
+    - Po ostrożnym ruchu umieszczam w wybranym przez siebie korytarzu znacznik szmeru
         - gdy nie ma tam żadnego Nocnego Łowcy ani postaci
+    - Jeśli w ramach ostrożnego ruchu poszedłem do [nieodkrytego pomieszczenia](../pomieszczenia/odkrywam-pomieszczenie.md) i znalazłem znacznik niebezpieczeństwa, [to rozpatruje ten efekt](../powtarzalne/niebezpieczenstwo.md)

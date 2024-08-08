@@ -9,5 +9,5 @@
 - [Znacznik Awarii](awaria.md)
 - [Znacznik Drzwi](drzwi.md)
 - [Znacznik Ciszy](cisza.md)
-- [Znacznik Niebezpieczeństwa](../../../rzut-na-szmery/niebezpieczenstwo/niebezpieczenstwo)
+- [Znacznik Niebezpieczeństwa](../powtarzalne/niebezpieczenstwo.md)
 - [Znacznik Śluzu](sluz.md)

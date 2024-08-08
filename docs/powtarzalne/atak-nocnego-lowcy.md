@@ -1,17 +1,17 @@
 # Atak nocnego łowcy
 
 ### Gdy rozgrywam w Fazie wydarzeń
-- Każdy nocny łowcy w pomieszczeniu z postacią wykonuje atak.
-- Jeśli jest więcej niż 1 postać w pomieszczeniu, to wybiera tego, co ma najmniej kart akcji na ręce.
-- A jak jest remis to tego, co jest najwcześniej w kolejności graczy.
-- Imo bym tutaj atakował randomowo :D 
+- Każdy nocny łowcy w pomieszczeniu z postacią wykonuje atak
+    - Jeśli jest więcej niż 1 postać w pomieszczeniu, to wybiera tego, co ma najmniej kart akcji na ręce
+- A jak jest remis to tego, co jest najwcześniej w kolejności graczy
+    - `Nalepa rule` Imo bym tutaj atakował randomowo :D 
 
 ### Gdy rozgrywam Spotkanie z Nocnym Łowcą z Zaskoczenia
-- Dobierz 1 kartę ataku Nocnego Łowcy i wykonaj atak.
-- Jeśli jest więcej niż 1 postać w pomieszczeniu, to wybiera tego, co ma najmniej kart akcji na ręce.
-    - `Nalepa info` A nie tego, który spowodował atak z zaskoczenia?
-- A jak jest remis to tego, co jest najwcześniej w kolejności graczy.
-    - `Nalepa info` Imo bym tutaj atakował randomowo :D 
+- Dobierz 1 kartę ataku Nocnego Łowcy i wykonaj atak
+- Jeśli jest więcej niż 1 postać w pomieszczeniu, to wybiera tego, co ma najmniej kart akcji na ręce
+    - `Nalepa rule` Ja bym wybrał tego, co spowodował atak
+- A jak jest remis to tego, co jest najwcześniej w kolejności graczy
+    - `Nalepa rule` Imo bym tutaj atakował randomowo :D 
 
 
 ### Rozgrywam, gdy uciekam
@@ -19,6 +19,7 @@
 
 ### Jak wygląda atak?
 - Patrzę na szczegóły karty ataku
+    - W przypadku ataku królowej patrzę na specjalne dla niej karty ataku
 
 ![karta-ataku.png](karta-ataku.png)
 

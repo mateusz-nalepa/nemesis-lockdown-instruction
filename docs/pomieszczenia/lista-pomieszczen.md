@@ -8,7 +8,7 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
     - Pomieszczenie nie może być zepsute 
     - Mogę nawet wtedy, gdy jest pożar
     - Musi być symbol zasilania
-        - Nalepa info: To bym stosował tylko w przypadku pomieszczeń z komputerem
+        - Nalepa rule: To bym stosował tylko w przypadku pomieszczeń z komputerem
     - W pomieszczeniu nie może być Nocnego Łowcy
 - Konsekwencje:
     - Wykonuje kartę danego pomieszczenia
@@ -115,7 +115,7 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
         - jeśli wszystkie są zniszczone, to gniazdo uznaje się za zniszczone
             - umieszczam wtedy znacznik amunicji
     - jeśli w fazie wydarzeń, dokładniej skutki pożarów, są tutaj jakieś jaja, to niszczę 1 z nich
-        - Nalepa info: Ja bym wtedy niszczył wszystkie jaja
+        - Nalepa rule: Ja bym wtedy niszczył wszystkie jaja
 
 ### Archiwum
 - Wymagania:
@@ -180,7 +180,7 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
 - Zmniejszam wartość przedmiotów o 1 i biorę jedną z tych kart ze stosu samoróbek, o ile są:
     - Paralizator
     - Skafander Kosmiczny
-    - Nalepa info: Biorę kartę, jak nie ma już, to sobie na jakiejś kartce ją dorysuję :grin:
+    - Nalepa rule: Biorę kartę, jak nie ma już, to sobie na jakiejś kartce ją dorysuję :grin:
 
 ### Skażone pomieszczenie
 - Za każdym razem, gdy je przeszukuje, umieszczam znacznik śluzu na planszy swojego
@@ -206,14 +206,14 @@ Tutaj jest lista pomieszczeń wraz z akcjami.
     - Umieść tam awarię
         - Każdy nocny łowca co tam jest, [otrzymuje po 1 obrażeniu](../powtarzalne/lowca-dostaje-rane.md)
         - Każda postać co tam jest, [otrzymuje 1 głęboką ranę](../powtarzalne/dostaje-rane.md)
-        - Nalepa info: Ja bym umieścił znacznik pożaru
+        - Nalepa rule: Ja bym umieścił znacznik pożaru
 
 ### Pokój testów
 - Wymagania:
     - Poziom postaci wynosi co najmniej 4
 - Konsekwencje:
     - Biorę neutralizator ze stosu samoróbek, o ile jest
-        - Nalepa info: Biorę kartę, jak nie ma już, to sobie na jakiejś kartce ją dorysuję :grin:
+        - Nalepa rule: Biorę kartę, jak nie ma już, to sobie na jakiejś kartce ją dorysuję :grin:
 
 ### 001 - Ucieczka do Bunkra
 - Wymagania:

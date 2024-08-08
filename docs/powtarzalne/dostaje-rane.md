@@ -4,7 +4,7 @@
 - Jak mam 3 głębokie rany, niezależnie czy opatrzone, czy nie i mam dostać kolejną dowolną ranę, to umieram
     - Upuszczam wtedy wszystkie ciężkie obiekty
     - Przedmioty są usuwane z gry
-        - Nalepa info: Ja bym je po prostu upuszczał 
+        - Nalepa rule: Ja bym je po prostu upuszczał 
     - Kładę żeton zwłok postaci
     - Jeśli umarłem i:
         - byłem pierwszą postacią co zmarła, to:

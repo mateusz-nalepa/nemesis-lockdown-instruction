@@ -44,6 +44,11 @@ nav:
       - Koniec gry: podstawowe-informacje/koniec-gry.md
       - Warunki zwycięstwa: podstawowe-informacje/warunki-zwyciestwa.md
   - Rzeczy powtarzalne:
+      - Rzut na szmery: powtarzalne/rzut-na-szmery.md
+      - Niebezpieczeństwo: powtarzalne/niebezpieczenstwo.md
+      - Spotkanie Nocnego Łowcy: powtarzalne/atak-nocnego-lowcy.md
+      - Umieszczenie pożaru: powtarzalne/umieszczam-pozar.md
+      - Umieszczenie awarii: powtarzalne/umieszczam-awarie.md
       - Akcje:
         - Podstawowe info: akcje-graczy/akcje-podstawowe-info.md
         - Ruch: akcje-graczy/akcja-ruch.md
@@ -61,9 +66,6 @@ nav:
         - Komputer: akcje-graczy/akcja-komputer.md
         - Skanowanie kart skażenia: akcje-graczy/akcja-skanowanie-kart.md
         - Pomieszczenia: pomieszczenia/lista-pomieszczen.md
-      - Spotkanie Nocnego Łowcy: powtarzalne/nocny-lowca-spotkanie.md
-      - Umieszczenie pożaru: powtarzalne/umieszczam-pozar.md
-      - Umieszczenie awarii: powtarzalne/umieszczam-awarie.md
   - Faza graczy:
     - Czym jest faza graczy?: faza-graczy/faza-graczy.md
     - 1. Dobieranie kart akcji: faza-graczy/01-dobieranie-kart-akcji.md

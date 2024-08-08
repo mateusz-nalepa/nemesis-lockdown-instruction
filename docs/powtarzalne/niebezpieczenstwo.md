@@ -1,8 +1,7 @@
 # Niebezpieczeństwo!!
 
-Dla każdego nocnego łowcy...
-
-
-- Czy nocny łowca w pomieszczeniu obok jest zaangażowany w walkę?
-    - Nie, więc przechodzi do mnie, gdy drzwi są otwarte lub zniszczone!
-    - Tak, więc muszę umieścić znacznik szmeru w każdym korytarzu prowadzącym tam gdzie jestem, wliczając w to korytarze techniczne
+- Dla każdego nocnego łowcy.... 
+     - Czy w dowolnym sąsiednim pomieszczeniu jest nocny łowca?
+         - Nie, tym razem mi się upiekło! Umieszczam znacznik szmeru w każdym korytarzu prowadzącym do pomieszczenia
+         - Tak, ale walczy obecnie! Umieszczam znacznik szmeru w każdym korytarzu prowadzącym do pomieszczenia
+         - Tak i nie walczy! Więc przesuwam go do swojego pomieszczenia!
