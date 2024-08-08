@@ -22,8 +22,7 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs
-    - navigation.tabs.sticky
-#    - navigation.sections
+#    - navigation.tabs.sticky
     - navigation.expand
     - navigation.path
 markdown_extensions:
