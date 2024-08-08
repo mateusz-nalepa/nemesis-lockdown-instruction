@@ -8,6 +8,6 @@
 - Symbol ciszy
     - Czy mam na sobie śluz?
         - Nie, uff, nic się nie dzieje!
-        - Tak, więc jest to równoważne z symbolem niebezpieczeństwa!
+        - Tak, więc jest to równoważne z [symbolem niebezpieczeństwa!](niebezpieczenstwo.md)
 - Symbol niebezpieczeństwa
     - [Sprawdź tutaj szczegóły](niebezpieczenstwo.md)
